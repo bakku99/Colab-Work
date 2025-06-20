@@ -7,6 +7,7 @@ Template contents
 69.22 x 106.64 points (occurrences: 2)
 611.97 x 212.6 points (occurrences: 2)
 612.0 x 792.0 points (occurrences: 2)
+629.28 x 810.72 points (occurrences: 1)
 67.71 x 70.87 points (occurrences: 1)
 433.7 x 643.86 points (occurrences: 1)
 448.0 x 657.83 points (occurrences: 1)
@@ -20,6 +21,7 @@ Conversions
 69.22 x 106.64 pt 	 0.96 x 1.48 in 	 288 x 444 px
 611.97 x 212.60 pt 	 8.50 x 2.95 in 	 2550 x 886 px
 612.00 x 792.00 pt 	 8.50 x 11.00 in 	 2550 x 3300 px
+629.28 x 810.72 pt       8.74 x 11.26 in         2622 x 3378 px
 67.71 x 70.87 pt 	 0.94 x 0.98 in 	 282 x 295 px
 433.70 x 643.86 pt 	 6.02 x 8.94 in 	 1807 x 2683 px
 448.00 x 657.83 pt 	 6.22 x 9.14 in 	 1867 x 2741 px
@@ -41,4 +43,5 @@ The InDesign template includes several image placeholders with specific sizes. T
 | Small icon (narrow) | 0.88 × 1.14 | 265 × 341 |
 
 These sizes cover all distinct graphic frames found in the template spreads. Use 300 dpi or higher to maintain print quality.
-For bleed images when printing, you will need to adjust for margins by 0.125"
+Measurements use 72 pt = 1 inch and pixel values assume 300 dpi output.
+For bleed images when printing, extend artwork 0.125" past the trim size on each edge.
