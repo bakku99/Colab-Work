@@ -1,0 +1,44 @@
+# Image Dimensions
+
+Template contents
+
+63.58 x 81.91 points (occurrences: 8)
+73.32 x 109.98 points (occurrences: 5)
+69.22 x 106.64 points (occurrences: 2)
+611.97 x 212.6 points (occurrences: 2)
+612.0 x 792.0 points (occurrences: 2)
+67.71 x 70.87 points (occurrences: 1)
+433.7 x 643.86 points (occurrences: 1)
+448.0 x 657.83 points (occurrences: 1)
+612.0 x 688.91 points (occurrences: 1)
+6057.6 x 7839.24 points (occurrences: 1)
+
+Conversions
+
+63.58 x 81.91 pt 	 0.88 x 1.14 in 	 265 x 341 px
+73.32 x 109.98 pt 	 1.02 x 1.53 in 	 306 x 458 px
+69.22 x 106.64 pt 	 0.96 x 1.48 in 	 288 x 444 px
+611.97 x 212.60 pt 	 8.50 x 2.95 in 	 2550 x 886 px
+612.00 x 792.00 pt 	 8.50 x 11.00 in 	 2550 x 3300 px
+67.71 x 70.87 pt 	 0.94 x 0.98 in 	 282 x 295 px
+433.70 x 643.86 pt 	 6.02 x 8.94 in 	 1807 x 2683 px
+448.00 x 657.83 pt 	 6.22 x 9.14 in 	 1867 x 2741 px
+612.00 x 688.91 pt 	 8.50 x 9.57 in 	 2550 x 2870 px
+6057.60 x 7839.24 pt 	 84.13 x 108.88 in 	 25240 x 32664 px
+
+The InDesign template includes several image placeholders with specific sizes. The measurements below are taken directly from the IDML package and converted to inches (72 points per inch). All dimensions assume 300 dpi output resolution.
+
+| Layout type | Width × Height (inches) | Recommended pixel size |
+|-------------|-------------------------|------------------------|
+| Full page art | 8.5 × 11 | 2550 × 3300 |
+| Large full‑page (no bleed) | 8.5 × 9.57 | 2550 × 2870 |
+| Top/Bottom banner | 8.5 × 2.95 | 2550 × 886 |
+| Tall side image | 6.22 × 9.14 | 1867 × 2741 |
+| Tall side image (narrow) | 6.02 × 8.94 | 1807 × 2683 |
+| Small sidebar graphic | 1.02 × 1.53 | 305 × 458 |
+| Small sidebar graphic | 0.96 × 1.48 | 288 × 444 |
+| Small icon | 0.94 × 0.98 | 282 × 295 |
+| Small icon (narrow) | 0.88 × 1.14 | 265 × 341 |
+
+These sizes cover all distinct graphic frames found in the template spreads. Use 300 dpi or higher to maintain print quality.
+For bleed images when printing, you will need to adjust for margins by 0.125"
