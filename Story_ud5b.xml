@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="ud5b" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 0 (page) (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Credits</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Credits%3aCredits - Body">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Indesign Template Based on D&amp;D 2024: created by Stephen Garrett 2025. Check out his Patreon for other resources.  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
+				<HyperlinkTextSource Self="ud71" Name="www.patreon.com/wgtngm" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
+					<Content>www.patreon.com/wgtngm</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Revision 1</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Credits%3aCredits - Indent List">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Free Font Version: Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
+				<HyperlinkTextSource Self="ud78" Name="github.com/jonathonf/solbera-dnd-fonts" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
+					<Content>github.com/jonathonf/solbera-dnd-fonts</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Adobe Font Version: You will need an active subscription to access the fonts via </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
+				<HyperlinkTextSource Self="ud7b" Name="fonts.adobe.com" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
+					<Content>fonts.adobe.com</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

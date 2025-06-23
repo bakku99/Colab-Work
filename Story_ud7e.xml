@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="ud7e" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="TOCStyle/$ID/DefaultTOCStyleName" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - Page">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Contents</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - 0">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<HyperlinkTextSource Self="u2966" Name=".10598" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Chapter 1: </Content>
+				</HyperlinkTextSource>
+				<HyperlinkTextSource Self="u2964" Name=".10596" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Styles</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - 1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<HyperlinkTextSource Self="u2967" Name=".10599" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Headings	6</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u295e" Name=".10590" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Body Text	7</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<HyperlinkTextSource Self="u295f" Name=".10591" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Body Copy	7</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u295d" Name=".10589" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Lists	7</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u2968" Name=".10600" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Credits	8</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u2959" Name=".10585" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Hyperlink	8</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u295a" Name=".10586" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Page numbers and Footer	8</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u2958" Name=".10584" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Quotes	8</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u295b" Name=".10587" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Spell and Tool Styles	9</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - 1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<HyperlinkTextSource Self="u2955" Name=".10581" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Tables	10</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u2956" Name=".10582" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Stat Blocks	11</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u2954" Name=".10580" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Boxes	12</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<HyperlinkTextSource Self="u2957" Name=".10583" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Box - 2024	12</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u295c" Name=".10588" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Box - Inverse Rounded	13</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - 1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<HyperlinkTextSource Self="u2950" Name=".10576" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Legacy Boxes 	14</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<HyperlinkTextSource Self="u2951" Name=".10577" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Box - White (Legacy)	14</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u294f" Name=".10575" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Box - Class Table (Legacy)	15</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" ParagraphBreakType="NextColumn">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - 0">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<HyperlinkTextSource Self="u2952" Name=".10578" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Chapter 2: </Content>
+				</HyperlinkTextSource>
+				<HyperlinkTextSource Self="u294c" Name=".10572" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Technical</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - 1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<HyperlinkTextSource Self="u294d" Name=".10573" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>How the InDesign File is Set Up	19</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<HyperlinkTextSource Self="u294b" Name=".10571" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Layers Panel	19</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u294e" Name=".10574" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Pages Panel	19</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u2948" Name=".10568" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Table Style Panel	19</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u2949" Name=".10569" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Paragraph Style Panel	19</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u2947" Name=".10567" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Character Style Panel	19</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - 0">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<HyperlinkTextSource Self="u294a" Name=".10570" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Chapter 3:</Content>
+				</HyperlinkTextSource>
+				<HyperlinkTextSource Self="u2945" Name=".10565" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Image Masks</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - 1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<HyperlinkTextSource Self="u2946" Name=".10566" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Watercolor Masks	20</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aToc%3aTOC - 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<HyperlinkTextSource Self="u2944" Name=".10564" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>The Splotch Method	20</Content>
+				</HyperlinkTextSource>
+				<Br />
+				<HyperlinkTextSource Self="u2943" Name=".10563" Hidden="true" AppliedCharacterStyle="n">
+					<Properties>
+						<AlternativeDestination Type="TocTextAnchor" IndexMarkerId="0" TextAnchorName="" TocEntryPageNumberString="" TocEntryLevel="0" />
+					</Properties>
+					<Content>Full Page Masks	21</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
