@@ -1,0 +1,1623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="u1069" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 0 (page) (toc)" SpanColumnType="SingleColumn">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Body Text</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 1 (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Body Copy</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Body Copy Drop Cap</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - Drop Cap">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>This is an introduction paragraph Lectur aut et audit fugit aut est et, opta que in earum reptatin es quate volupite custias ra esequodi diam, con porpor assinis si blacepra non resti debis expe doluptatem ex et ut qui volor assitio. Nequae qui demporem nis nobit doluptatusa sae doluptur arunt offic tem verum aut fuga. Et ent.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Body Copy First Paragraph</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>As dit et, optianis quosapidebit expeditem vernatusam endit et hilitat iustis sunt estiunti optatur epratasimi, odignimin ne delectatium quideli caborit, non pelenihici ad quibus expe ra quae litias aceatia vendio tenit quo test, consed qui od magniaeped quia ipis et volore, quia volo ditium debita pro modit, ipiet harchil ium et litis archillut vendionsento qui dus atint landell iquuntem nihilla borepro blabo. Nequi blam sus, consequiant labo. Nequis es magnihi tatiandi sunt.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Body Copy</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>As dit et, optianis quosapidebit expeditem vernatusam endit et hilitat iustis sunt estiunti optatur non pelenihici ad quibus expe ra quae litias aceatia vendio tenit quo test, consed qui od magniaeped quia ipis et volore, quia volo ditium debita pro modit, ipiet harchil ium et litis archillut vendionsento qui dus atint landell iquuntem nihilla borepro blabo. Nequi blam sus, consequiant labo. Nequis es magnihi tatiandi sunt.</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - Bold to a Period">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Bold to a period. Enist, que niet liti dis moloria teturita con es nos es re, event, volorem. Daero corum ent quis ex enemqua simus.</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - Bold Italic to a Period">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Bold to a period. Enist, que niet liti dis moloria teturita con es nos es re, event, volorem. Daero corum ent quis ex enemqua simus.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" ParagraphBreakType="NextColumn">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 1 (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Lists</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Bullet List</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Lists%3aList - Bullets">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Item</Content>
+				<Br />
+				<Content>Item</Content>
+				<Br />
+				<Content>Item </Content>
+				<Br />
+				<Content>Item</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Numbered List</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Lists%3aList - Numbered">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>This list is bold to a period. And then it is not, it is indented like this.</Content>
+				<Br />
+				<Content>This list is bold to a period. And then it is not, it is indented like this.</Content>
+				<Br />
+				<Content>This list is bold to a period. And then it is not, it is indented like this.</Content>
+				<Br />
+				<Content>This list is bold to a period. And then it is not, it is indented like this.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Indented items</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Lists%3aList - Indented Items">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>These indented items are bold to a colon: As dit et, optianis quosapidebit expeditem vernatusam endit et hilitat iustis sunt estiunti optatur epratasimi, odignimin ne delectatium quideli caborit,</Content>
+				<Br />
+				<Content>These indented items are bold to a colon: As dit et, optianis quosapidebit expeditem vernatusam endit et hilitat iustis sunt estiunti optatur epratasimi, odignimin ne delectatium quideli caborit,</Content>
+				<Br />
+				<Content>These indented items are bold to a colon: As dit et, optianis quosapidebit expeditem vernatusam endit et hilitat iustis sunt estiunti optatur epratasimi, odignimin ne delectatium quideli caborit.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-20">
+				<Content>Indented items - Bold to a Period</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Lists%3aList - Indented Items - Bold to a Period">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Bold to a period. Enist, que niet liti dis moloria teturita con es nos es re, event, volorem. Daero corum ent quis ex enemqua simus.</Content>
+				<Br />
+				<Content>Bold to a period. Enist, que niet liti dis moloria teturita con es nos es re, event, volorem. Daero corum ent quis ex enemqua simus.</Content>
+				<Br />
+				<Content>Bold to a period. Enist, que niet liti dis moloria teturita con es nos es re, event, volorem. Daero corum ent quis ex enemqua simus.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" ParagraphBreakType="NextColumn">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 1 (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Credits</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Credits%3aCredits - Heading">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Credits - Heading</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Credits%3aCredits - Body">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Credits Body. ed qui od magniaeped quia ipis et volore, quia volo ditium debita pro modit, ipiet harchil ium et litis archillut vendionsento qui dus atint landell iquuntem nihilla borepro blabo. Nequi blam sus, consequiant labo. Nequis es magnihi tatiandi sunt.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Credits%3aCredits - Indent List">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>This is an indented list</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" StrokeWeight="0.1">
+				<Properties>
+					<AppliedFont type="string">Scala Sans Pro</AppliedFont>
+				</Properties>
+				<Content>: For credits, it is bold to the first colon: and following lines are indented.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Lists%3aList - Indented Items">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" StrokeWeight="0.1">
+				<Properties>
+					<AppliedFont type="string">Scala Sans Pro</AppliedFont>
+				</Properties>
+				<Content>This is an indented list: For credits, it is bold to the first colon: and following lines are indented.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 1 (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Hyperlink</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>This is just a character style for a url  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
+				<HyperlinkTextSource Self="u11af" Name="www.patreon.com/wgtngm 4" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
+					<Content>www.patreon.com/wgtngm</Content>
+				</HyperlinkTextSource>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 1 (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Page numbers and Footer</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Page numbering is automatic and the footer text will use the SECTION MARKER for content.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 1 (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Quotes</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - Quote - First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>“Body Copy - Quote - Frist Paragraph Borum nim il impost, experchicia sit, occaborit optatia aut untius il is etur seque secus et labo. Con rentem. Cerum voluptatis nita voluptus earum res molorep eriberion non consende labore, ea veles el illant.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - Quote">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Body Copy - Quote qui dunto que enectas inum aruptatqui oditia sit voloria doluptaspic tem il moluptat lam harum experch iliquae. Ita pro eos veruptatur? Haris ditis ese poreped qui unt.”</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - Quote - Name">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>- Body Copy - Quote - Name</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - Quote - Citation%0d">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Body Copy - Quote - Citation</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" ParagraphBreakType="NextColumn">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 1 (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Spell and Tool Styles</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - Name">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Spell Name </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - Level and Type">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Spell Level and Type</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - Info">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Spell info: Bold to a colon</Content>
+				<Br />
+				<Content>Range: 30 feet</Content>
+				<Br />
+				<Content>Components: V, S</Content>
+				<Br />
+				<Content>Duration: Instantaneous</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Temporehenis etur ant arum endusande restinum, exped maximus eos voluptae ommoluptatem lab intur, solorem arcia volore prempor aperent alignatio des dem vendand ucienditem quo tori adisci dolo quaeptatibus ipistiur? Lo maximi, isquis eum sequi iligentum ist pra quam videliquae necto tem quodit re sapiet, nis re nos sit eatis sinctem quiatam, coreperuptat quo consedis et, cumet odit, consequo tem rae. Et facilit doluptate vel inum, nos si aut laboreste et et placide nditae dio officiae volupta turepere con plis in estem qui dolut que cuptam ex enist, que niet liti dis moloria teturita con es nos es re, event, volorem. Daero corum ent quis ex enemqua simus.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - At Higher Levels">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Spell - At Higher Levels. Bold to a period. Enist, que niet liti dis moloria teturita con es nos es re, event, volorem. Daero corum ent quis ex enemqua simus.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - Graphic Device">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Polygon Self="u1ced" ContentType="Unassigned" StoryTitle="$ID/" OverriddenPageItemProps="" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/MidGrey" FillTint="50" StrokeWeight="1" MiterLimit="10" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -63.200286865234375 542.9760831700984" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+					<Properties>
+						<PathGeometry>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="300.5587315857378 -548.6433477801642" LeftDirection="300.5587315857378 -548.6433477801642" RightDirection="299.59776362925663 -548.6433477801642" />
+									<PathPointType Anchor="297.2839956003195 -548.5926473403857" LeftDirection="298.50617675552314 -548.6246738572526" RightDirection="296.0604102055301 -548.5606700950832" />
+									<PathPointType Anchor="291.28882872910157 -548.2488303639288" LeftDirection="294.062522176029 -548.4460151646999" RightDirection="288.51651488597764 -548.0514977484646" />
+									<PathPointType Anchor="283.4930818080645 -547.4304296790697" LeftDirection="285.9174398633212 -547.7796172560472" RightDirection="281.0699062703538 -547.0811928305277" />
+									<PathPointType Anchor="275.7145799345712 -545.8096415677846" LeftDirection="278.4762511197825 -546.540092510171" RightDirection="272.95155378133865 -545.0765792324845" />
+									<PathPointType Anchor="268.88374269516817 -543.2053437593006" LeftDirection="270.6750596908781 -544.20762592254" RightDirection="268.88374269516817 -543.2053437593006" />
+									<PathPointType Anchor="268.4585537300874 -542.9760831700984" LeftDirection="268.4585537300874 -542.9760831700984" RightDirection="268.4585537300874 -542.9760831700984" />
+									<PathPointType Anchor="268.2292931408851 -543.3999171671579" LeftDirection="268.2292931408851 -543.3999171671579" RightDirection="267.4642535602825 -544.5354789121279" />
+									<PathPointType Anchor="265.3463892714417 -546.2682120177536" LeftDirection="266.5032856038014 -545.4924805076739" RightDirection="264.189492939082 -547.0412335917907" />
+									<PathPointType Anchor="261.743726389089 -547.9209281027767" LeftDirection="262.9886217354859 -547.59297657006" RightDirection="260.49885567847423 -548.2488303639288" />
+									<PathPointType Anchor="258.5169316358421 -548.5926473403857" LeftDirection="259.42325742739195 -548.472671081046" RightDirection="257.6105319369457 -548.712574328161" />
+									<PathPointType Anchor="255.8805580389269 -548.7739666974165" LeftDirection="256.73221702976326 -548.7739666974165" RightDirection="255.8805580389269 -548.7739666974165" />
+									<PathPointType Anchor="77.84157858765099 -548.7739666974165" LeftDirection="77.84157858765099 -548.7739666974165" RightDirection="75.19988366177941 -548.6859676833792" />
+									<PathPointType Anchor="70.07908997259108 -547.7235954873124" LeftDirection="72.61147593281785 -548.3367308348372" RightDirection="67.54532440856082 -547.1132193473945" />
+									<PathPointType Anchor="64.18256477332307 -544.9406389862759" LeftDirection="65.58076859238342 -546.1855343326727" RightDirection="64.18256477332307 -544.9406389862759" />
+									<PathPointType Anchor="63.298928537184295 -544.186242063586" LeftDirection="63.298928537184295 -544.186242063586" RightDirection="63.298928537184295 -544.186242063586" />
+									<PathPointType Anchor="63.200286865234375 -549.8535066736516" LeftDirection="63.200286865234375 -549.8535066736516" RightDirection="63.200286865234375 -549.8535066736516" />
+									<PathPointType Anchor="300.6573978934699 -549.8535066736516" LeftDirection="300.6573978934699 -549.8535066736516" RightDirection="300.6573978934699 -549.8535066736516" />
+								</PathPointArray>
+							</GeometryPathType>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="69.75116307565668 -548.7739666974165" LeftDirection="67.43601544291602 -548.1182114466765" RightDirection="69.75116307565668 -548.7739666974165" />
+									<PathPointType Anchor="64.2812310810552 -548.7739666974165" LeftDirection="64.2812310810552 -548.7739666974165" RightDirection="64.2812310810552 -548.7739666974165" />
+									<PathPointType Anchor="64.2812310810552 -546.348179766792" LeftDirection="64.2812310810552 -546.348179766792" RightDirection="65.61272120190367 -547.31045341973" />
+								</PathPointArray>
+							</GeometryPathType>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="284.508691929477 -548.7739666974165" LeftDirection="277.76181343582954 -547.8115945013496" RightDirection="284.508691929477 -548.7739666974165" />
+									<PathPointType Anchor="262.6606948385515 -548.7739666974165" LeftDirection="262.6606948385515 -548.7739666974165" RightDirection="265.302389764423 -547.8782589279972" />
+									<PathPointType Anchor="268.88374269516817 -544.3835254074856" LeftDirection="267.3776341500487 -546.414794921875" RightDirection="272.5530946399506 -546.348179766792" />
+								</PathPointArray>
+							</GeometryPathType>
+						</PathGeometry>
+					</Properties>
+					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault">
+						<Properties>
+							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+						</Properties>
+					</ObjectExportOption>
+					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+						<Properties>
+							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+						</Properties>
+					</TextWrapPreference>
+					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+				</Polygon>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - Name">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Tool Name </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - Info">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Ability: Charisma	Weight: Varies</Content>
+				<Br />
+				<Content>Utilize: Do a thing</Content>
+				<Br />
+				<Content>Craft: Make something</Content>
+				<Br />
+				<Content>Variants: Temporehenis etur ant arum endusande restinum, exped maximus eos voluptae ommoluptatem lab intur, solorem arcia volore prempor aperent alignatio des dem vendand ucienditem quo tori adisci dolo quaeptatibus ipistiur?  </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - Graphic Device">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Polygon Self="u2090" ContentType="Unassigned" StoryTitle="$ID/" OverriddenPageItemProps="" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/MidGrey" FillTint="50" StrokeWeight="1" MiterLimit="10" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -63.200286865234375 542.9760831700984" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+					<Properties>
+						<PathGeometry>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="300.5587315857378 -548.6433477801642" LeftDirection="300.5587315857378 -548.6433477801642" RightDirection="299.59776362925663 -548.6433477801642" />
+									<PathPointType Anchor="297.2839956003195 -548.5926473403857" LeftDirection="298.50617675552314 -548.6246738572526" RightDirection="296.0604102055301 -548.5606700950832" />
+									<PathPointType Anchor="291.28882872910157 -548.2488303639288" LeftDirection="294.062522176029 -548.4460151646999" RightDirection="288.51651488597764 -548.0514977484646" />
+									<PathPointType Anchor="283.4930818080645 -547.4304296790697" LeftDirection="285.9174398633212 -547.7796172560472" RightDirection="281.0699062703538 -547.0811928305277" />
+									<PathPointType Anchor="275.7145799345712 -545.8096415677846" LeftDirection="278.4762511197825 -546.540092510171" RightDirection="272.95155378133865 -545.0765792324845" />
+									<PathPointType Anchor="268.88374269516817 -543.2053437593006" LeftDirection="270.6750596908781 -544.20762592254" RightDirection="268.88374269516817 -543.2053437593006" />
+									<PathPointType Anchor="268.4585537300874 -542.9760831700984" LeftDirection="268.4585537300874 -542.9760831700984" RightDirection="268.4585537300874 -542.9760831700984" />
+									<PathPointType Anchor="268.2292931408851 -543.3999171671579" LeftDirection="268.2292931408851 -543.3999171671579" RightDirection="267.4642535602825 -544.5354789121279" />
+									<PathPointType Anchor="265.3463892714417 -546.2682120177536" LeftDirection="266.5032856038014 -545.4924805076739" RightDirection="264.189492939082 -547.0412335917907" />
+									<PathPointType Anchor="261.743726389089 -547.9209281027767" LeftDirection="262.9886217354859 -547.59297657006" RightDirection="260.49885567847423 -548.2488303639288" />
+									<PathPointType Anchor="258.5169316358421 -548.5926473403857" LeftDirection="259.42325742739195 -548.472671081046" RightDirection="257.6105319369457 -548.712574328161" />
+									<PathPointType Anchor="255.8805580389269 -548.7739666974165" LeftDirection="256.73221702976326 -548.7739666974165" RightDirection="255.8805580389269 -548.7739666974165" />
+									<PathPointType Anchor="77.84157858765099 -548.7739666974165" LeftDirection="77.84157858765099 -548.7739666974165" RightDirection="75.19988366177941 -548.6859676833792" />
+									<PathPointType Anchor="70.07908997259108 -547.7235954873124" LeftDirection="72.61147593281785 -548.3367308348372" RightDirection="67.54532440856082 -547.1132193473945" />
+									<PathPointType Anchor="64.18256477332307 -544.9406389862759" LeftDirection="65.58076859238342 -546.1855343326727" RightDirection="64.18256477332307 -544.9406389862759" />
+									<PathPointType Anchor="63.298928537184295 -544.186242063586" LeftDirection="63.298928537184295 -544.186242063586" RightDirection="63.298928537184295 -544.186242063586" />
+									<PathPointType Anchor="63.200286865234375 -549.8535066736516" LeftDirection="63.200286865234375 -549.8535066736516" RightDirection="63.200286865234375 -549.8535066736516" />
+									<PathPointType Anchor="300.6573978934699 -549.8535066736516" LeftDirection="300.6573978934699 -549.8535066736516" RightDirection="300.6573978934699 -549.8535066736516" />
+								</PathPointArray>
+							</GeometryPathType>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="69.75116307565668 -548.7739666974165" LeftDirection="67.43601544291602 -548.1182114466765" RightDirection="69.75116307565668 -548.7739666974165" />
+									<PathPointType Anchor="64.2812310810552 -548.7739666974165" LeftDirection="64.2812310810552 -548.7739666974165" RightDirection="64.2812310810552 -548.7739666974165" />
+									<PathPointType Anchor="64.2812310810552 -546.348179766792" LeftDirection="64.2812310810552 -546.348179766792" RightDirection="65.61272120190367 -547.31045341973" />
+								</PathPointArray>
+							</GeometryPathType>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="284.508691929477 -548.7739666974165" LeftDirection="277.76181343582954 -547.8115945013496" RightDirection="284.508691929477 -548.7739666974165" />
+									<PathPointType Anchor="262.6606948385515 -548.7739666974165" LeftDirection="262.6606948385515 -548.7739666974165" RightDirection="265.302389764423 -547.8782589279972" />
+									<PathPointType Anchor="268.88374269516817 -544.3835254074856" LeftDirection="267.3776341500487 -546.414794921875" RightDirection="272.5530946399506 -546.348179766792" />
+								</PathPointArray>
+							</GeometryPathType>
+						</PathGeometry>
+					</Properties>
+					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault">
+						<Properties>
+							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+						</Properties>
+					</ObjectExportOption>
+					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+						<Properties>
+							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+						</Properties>
+					</TextWrapPreference>
+					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+				</Polygon>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - Name">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Tool Name </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - Info">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Ability: Charisma	Weight: Varies</Content>
+				<Br />
+				<Content>Utilize: Do a thing</Content>
+				<Br />
+				<Content>Craft: Make something</Content>
+				<Br />
+				<Content>Variants: Temporehenis etur ant arum endusande restinum, exped maximus eos voluptae ommoluptatem lab intur, solorem arcia volore prempor aperent alignatio des dem vendand ucienditem quo tori adisci dolo quaeptatibus ipistiur?  </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - Graphic Device">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Polygon Self="u29f0" ContentType="Unassigned" StoryTitle="$ID/" OverriddenPageItemProps="" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/MidGrey" FillTint="50" StrokeWeight="1" MiterLimit="10" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -63.200286865234375 542.9760831700984" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+					<Properties>
+						<PathGeometry>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="300.5587315857378 -548.6433477801642" LeftDirection="300.5587315857378 -548.6433477801642" RightDirection="299.59776362925663 -548.6433477801642" />
+									<PathPointType Anchor="297.2839956003195 -548.5926473403857" LeftDirection="298.50617675552314 -548.6246738572526" RightDirection="296.0604102055301 -548.5606700950832" />
+									<PathPointType Anchor="291.28882872910157 -548.2488303639288" LeftDirection="294.062522176029 -548.4460151646999" RightDirection="288.51651488597764 -548.0514977484646" />
+									<PathPointType Anchor="283.4930818080645 -547.4304296790697" LeftDirection="285.9174398633212 -547.7796172560472" RightDirection="281.0699062703538 -547.0811928305277" />
+									<PathPointType Anchor="275.7145799345712 -545.8096415677846" LeftDirection="278.4762511197825 -546.540092510171" RightDirection="272.95155378133865 -545.0765792324845" />
+									<PathPointType Anchor="268.88374269516817 -543.2053437593006" LeftDirection="270.6750596908781 -544.20762592254" RightDirection="268.88374269516817 -543.2053437593006" />
+									<PathPointType Anchor="268.4585537300874 -542.9760831700984" LeftDirection="268.4585537300874 -542.9760831700984" RightDirection="268.4585537300874 -542.9760831700984" />
+									<PathPointType Anchor="268.2292931408851 -543.3999171671579" LeftDirection="268.2292931408851 -543.3999171671579" RightDirection="267.4642535602825 -544.5354789121279" />
+									<PathPointType Anchor="265.3463892714417 -546.2682120177536" LeftDirection="266.5032856038014 -545.4924805076739" RightDirection="264.189492939082 -547.0412335917907" />
+									<PathPointType Anchor="261.743726389089 -547.9209281027767" LeftDirection="262.9886217354859 -547.59297657006" RightDirection="260.49885567847423 -548.2488303639288" />
+									<PathPointType Anchor="258.5169316358421 -548.5926473403857" LeftDirection="259.42325742739195 -548.472671081046" RightDirection="257.6105319369457 -548.712574328161" />
+									<PathPointType Anchor="255.8805580389269 -548.7739666974165" LeftDirection="256.73221702976326 -548.7739666974165" RightDirection="255.8805580389269 -548.7739666974165" />
+									<PathPointType Anchor="77.84157858765099 -548.7739666974165" LeftDirection="77.84157858765099 -548.7739666974165" RightDirection="75.19988366177941 -548.6859676833792" />
+									<PathPointType Anchor="70.07908997259108 -547.7235954873124" LeftDirection="72.61147593281785 -548.3367308348372" RightDirection="67.54532440856082 -547.1132193473945" />
+									<PathPointType Anchor="64.18256477332307 -544.9406389862759" LeftDirection="65.58076859238342 -546.1855343326727" RightDirection="64.18256477332307 -544.9406389862759" />
+									<PathPointType Anchor="63.298928537184295 -544.186242063586" LeftDirection="63.298928537184295 -544.186242063586" RightDirection="63.298928537184295 -544.186242063586" />
+									<PathPointType Anchor="63.200286865234375 -549.8535066736516" LeftDirection="63.200286865234375 -549.8535066736516" RightDirection="63.200286865234375 -549.8535066736516" />
+									<PathPointType Anchor="300.6573978934699 -549.8535066736516" LeftDirection="300.6573978934699 -549.8535066736516" RightDirection="300.6573978934699 -549.8535066736516" />
+								</PathPointArray>
+							</GeometryPathType>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="69.75116307565668 -548.7739666974165" LeftDirection="67.43601544291602 -548.1182114466765" RightDirection="69.75116307565668 -548.7739666974165" />
+									<PathPointType Anchor="64.2812310810552 -548.7739666974165" LeftDirection="64.2812310810552 -548.7739666974165" RightDirection="64.2812310810552 -548.7739666974165" />
+									<PathPointType Anchor="64.2812310810552 -546.348179766792" LeftDirection="64.2812310810552 -546.348179766792" RightDirection="65.61272120190367 -547.31045341973" />
+								</PathPointArray>
+							</GeometryPathType>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="284.508691929477 -548.7739666974165" LeftDirection="277.76181343582954 -547.8115945013496" RightDirection="284.508691929477 -548.7739666974165" />
+									<PathPointType Anchor="262.6606948385515 -548.7739666974165" LeftDirection="262.6606948385515 -548.7739666974165" RightDirection="265.302389764423 -547.8782589279972" />
+									<PathPointType Anchor="268.88374269516817 -544.3835254074856" LeftDirection="267.3776341500487 -546.414794921875" RightDirection="272.5530946399506 -546.348179766792" />
+								</PathPointArray>
+							</GeometryPathType>
+						</PathGeometry>
+					</Properties>
+					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault">
+						<Properties>
+							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+						</Properties>
+					</ObjectExportOption>
+					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+						<Properties>
+							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+						</Properties>
+					</TextWrapPreference>
+					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+				</Polygon>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - Name">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Item Name </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aItem - Type and Rarity">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Wonderous item, rare</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Temporehenis etur ant arum endusande restinum, exped maximus eos voluptae ommoluptatem lab intur, solorem arcia volore prempor aperent alignatio des dem vendand ucienditem quo tori adisci dolo quaeptatibus ipistiur?  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" ParagraphBreakType="NextColumn">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - Info">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Spell Lists</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - List - Heading">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Cantrips (Level 0 Spells)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Table Self="u1069i1cf1" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="4" ColumnCount="3" AppliedTableStyle="TableStyle/Spell Table" TableDirection="LeftToRightDirection">
+					<Row Self="u1069i1cf1Row0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" MinimumHeight="3" />
+					<Row Self="u1069i1cf1Row1" Name="1" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="14.605941772460938" />
+					<Row Self="u1069i1cf1Row2" Name="2" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="14.605941772460938" />
+					<Row Self="u1069i1cf1Row3" Name="3" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="14.605941772460938" />
+					<Row Self="u1069i1cf1Row4" Name="4" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="14.605941772460938" MinimumHeight="14.605941772460938" />
+					<Column Self="u1069i1cf1Column0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="129.2598425196846" />
+					<Column Self="u1069i1cf1Column1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="72.56692913385828" />
+					<Column Self="u1069i1cf1Column2" Name="2" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="35.764724409449116" />
+					<Cell Self="u1069i1cf1ib" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Spell</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1ia" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>School</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1i1" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Special</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1i2" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Italic">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1i3" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1i0" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Centred">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>C</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1i4" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Italic">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1i5" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1ic" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Centred">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Italic">
+								<Content>–</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1i6" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Italic">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1i7" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1id" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Centred">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>C</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1i8" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Italic">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1i9" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1cf1ie" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Centred">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Italic">
+								<Content>–</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+				</Table>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - List - Heading">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Level 1 Spells</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Table Self="u1069i1d0a" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="4" ColumnCount="3" AppliedTableStyle="TableStyle/Spell Table" TableDirection="LeftToRightDirection">
+					<Row Self="u1069i1d0aRow0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" MinimumHeight="3" />
+					<Row Self="u1069i1d0aRow1" Name="1" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="14.605941772460938" />
+					<Row Self="u1069i1d0aRow2" Name="2" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="14.605941772460938" />
+					<Row Self="u1069i1d0aRow3" Name="3" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="14.605941772460938" />
+					<Row Self="u1069i1d0aRow4" Name="4" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="14.605941772460938" MinimumHeight="14.605941772460938" />
+					<Column Self="u1069i1d0aColumn0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="129.2598425196846" />
+					<Column Self="u1069i1d0aColumn1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="72.56692913385828" />
+					<Column Self="u1069i1d0aColumn2" Name="2" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="35.764724409449116" />
+					<Cell Self="u1069i1d0aib" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Spell</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0aia" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>School</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0ai1" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Special</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0ai2" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Italic">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0ai3" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0ai0" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Centred">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>C</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0ai4" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Italic">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0ai5" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0aic" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Centred">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Italic">
+								<Content>–</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0ai6" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Italic">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0ai7" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0aid" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Centred">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>C</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0ai8" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Italic">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0ai9" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d0aie" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body Centred">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Italic">
+								<Content>–</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+				</Table>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" ParagraphBreakType="NextColumn">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 0 (page) (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Tables</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Heading">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Table Title (Table Style Basic Table)</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Regular">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Table Self="u1069i1d21" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="4" ColumnCount="2" AppliedTableStyle="TableStyle/Basic Table" TableDirection="LeftToRightDirection">
+					<Row Self="u1069i1d21Row0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" MinimumHeight="3" />
+					<Row Self="u1069i1d21Row1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" />
+					<Row Self="u1069i1d21Row2" Name="2" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" />
+					<Row Self="u1069i1d21Row3" Name="3" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" />
+					<Row Self="u1069i1d21Row4" Name="4" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" />
+					<Column Self="u1069i1d21Column0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="118.795748031496" />
+					<Column Self="u1069i1d21Column1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="118.795748031496" />
+					<Cell Self="u1069i1d21ib" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Header Row</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d21ia" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Header Row</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d21i2" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d21i3" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d21i4" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d21i5" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Italic">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d21i6" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d21i7" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Bold">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d21i8" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d21i9" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Bold Italic">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+				</Table>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Heading">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" ParagraphBreakType="NextColumn">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Table Title  (Table Style Basic Table Alternative)</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Regular">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Table Self="u1069i1d16" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="4" ColumnCount="2" AppliedTableStyle="TableStyle/Basic Table - Alt Pattern" TableDirection="LeftToRightDirection">
+					<Row Self="u1069i1d16Row0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" MinimumHeight="3" />
+					<Row Self="u1069i1d16Row1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" />
+					<Row Self="u1069i1d16Row2" Name="2" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" />
+					<Row Self="u1069i1d16Row3" Name="3" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" />
+					<Row Self="u1069i1d16Row4" Name="4" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" />
+					<Column Self="u1069i1d16Column0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="118.795748031496" />
+					<Column Self="u1069i1d16Column1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="118.795748031496" />
+					<Cell Self="u1069i1d16ib" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Header Row</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d16ia" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Header Row</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d16i2" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d16i3" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d16i4" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d16i5" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Italic">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d16i6" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d16i7" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Bold">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d16i8" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i1d16i9" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Bold Italic">
+								<Content>Table - Body</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+				</Table>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Heading" SpanColumnType="SpanColumns">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>The Class</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - First Paragraph" SpanColumnType="SpanColumns">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Table Self="u1069i24d6" HeaderRowCount="0" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="7" ColumnCount="14" AppliedTableStyle="TableStyle/Basic Table - Alt Pattern" TableDirection="LeftToRightDirection">
+					<Row Self="u1069i24d6Row0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.610097329447589" MinimumHeight="12.610097329447589" />
+					<Row Self="u1069i24d6Row1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.610097329447589" MinimumHeight="12.610097329447589" />
+					<Row Self="u1069i24d6Row2" Name="2" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="13.59826167549674" MinimumHeight="13.59826167549674" />
+					<Row Self="u1069i24d6Row3" Name="3" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="13.59826167549674" MinimumHeight="13.59826167549674" />
+					<Row Self="u1069i24d6Row4" Name="4" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="13.59826167549674" MinimumHeight="13.59826167549674" />
+					<Row Self="u1069i24d6Row5" Name="5" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="13.59826167549674" MinimumHeight="13.59826167549674" />
+					<Row Self="u1069i24d6Row6" Name="6" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="13.59826167549674" MinimumHeight="13.59826167549674" />
+					<Column Self="u1069i24d6Column0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="31.371023622047062" />
+					<Column Self="u1069i24d6Column1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="48.18897637795276" />
+					<Column Self="u1069i24d6Column2" Name="2" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="93.63685039370051" />
+					<Column Self="u1069i24d6Column3" Name="3" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="38.267716535433" />
+					<Column Self="u1069i24d6Column4" Name="4" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="38.59937007874026" />
+					<Column Self="u1069i24d6Column5" Name="5" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="27.65606299212597" />
+					<Column Self="u1069i24d6Column6" Name="6" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="27.65606299212597" />
+					<Column Self="u1069i24d6Column7" Name="7" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="27.65606299212597" />
+					<Column Self="u1069i24d6Column8" Name="8" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="27.65606299212597" />
+					<Column Self="u1069i24d6Column9" Name="9" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="27.65606299212597" />
+					<Column Self="u1069i24d6Columna" Name="10" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="27.65606299212597" />
+					<Column Self="u1069i24d6Columnb" Name="11" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="27.65606299212597" />
+					<Column Self="u1069i24d6Columnc" Name="12" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="27.65606299212597" />
+					<Column Self="u1069i24d6Columnd" Name="13" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="27.65606299212597" />
+					<Cell Self="u1069i24d6i0" Name="0:0" RowSpan="2" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Level</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i1" Name="1:0" RowSpan="2" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Proficiency Bonus</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i2" Name="2:0" RowSpan="2" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Features</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i3" Name="3:0" RowSpan="2" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Cantrips Known</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i4" Name="4:0" RowSpan="2" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Spells Known</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i1e" Name="5:0" RowSpan="1" ColumnSpan="9" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Spell Slots per Spell Level</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i59" Name="5:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1st</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i5a" Name="6:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2nd</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i5b" Name="7:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3rd</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i5c" Name="8:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>4th</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i5d" Name="9:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>5th</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i5e" Name="10:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>6th</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i5f" Name="11:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>7th</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i60" Name="12:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>8th</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i61" Name="13:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" FillColor="Swatch/None" VerticalJustification="BottomAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Header Row" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>9th</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i5" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1st</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i6" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>+2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i7" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Spellcasting</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i8" Name="3:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i9" Name="4:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>4</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i27" Name="5:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i28" Name="6:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i29" Name="7:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i2a" Name="8:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i2b" Name="9:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="94">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i2c" Name="10:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="166">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i2d" Name="11:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="238">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i2e" Name="12:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="310">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i2f" Name="13:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="382">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6ia" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2nd</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6ib" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>+2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6ic" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Spellcasting</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6id" Name="3:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6ie" Name="4:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>5</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i30" Name="5:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="46">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i31" Name="6:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="46">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i32" Name="7:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="46">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i33" Name="8:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="46">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i34" Name="9:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="118">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i35" Name="10:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="190">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i36" Name="11:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="262">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i37" Name="12:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="334">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i38" Name="13:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="406">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6if" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3rd</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i10" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>+2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i11" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Spellcasting</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i12" Name="3:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i13" Name="4:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>6</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i39" Name="5:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="70">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>4</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i3a" Name="6:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="70">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i3b" Name="7:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="70">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i3c" Name="8:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="70">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i3d" Name="9:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="142">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i3e" Name="10:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="214">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i3f" Name="11:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="286">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i40" Name="12:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="358">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i41" Name="13:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="430">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i14" Name="0:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>4th</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i15" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>+2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i16" Name="2:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Spellcasting</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i17" Name="3:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i18" Name="4:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="22">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>7</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i42" Name="5:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="94">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>4</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i43" Name="6:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="94">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i44" Name="7:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="94">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i45" Name="8:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="94">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i46" Name="9:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="166">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i47" Name="10:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="238">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i48" Name="11:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="310">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i49" Name="12:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="382">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i4a" Name="13:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="454">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i19" Name="0:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="21">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>5th</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i1a" Name="1:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="21">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>+3</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i1b" Name="2:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="21">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Spellcasting</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i1c" Name="3:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="21">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i1d" Name="4:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="21">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>8</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i4b" Name="5:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="118">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>4</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i4c" Name="6:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="118">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i4d" Name="7:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="118">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i4e" Name="8:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="118">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i4f" Name="9:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="190">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i50" Name="10:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="262">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i51" Name="11:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="334">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i52" Name="12:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="406">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1069i24d6i53" Name="13:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="478">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+				</Table>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" ParagraphBreakType="NextColumn">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Spells%3aSpell - List" SpanColumnType="SpanColumns">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Properties>
+					<AppliedFont type="string">Bookmania</AppliedFont>
+				</Properties>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

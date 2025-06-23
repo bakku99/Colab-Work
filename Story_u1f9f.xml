@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="u1f9f" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Heading">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Core Traits</Content>
+				<Br />
+				<Table Self="u1f9fi1fb4" HeaderRowCount="0" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="7" ColumnCount="2" AppliedTableStyle="TableStyle/Basic Table - Alt Pattern" TableDirection="LeftToRightDirection">
+					<Row Self="u1f9fi1fb4Row0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" />
+					<Row Self="u1f9fi1fb4Row1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" />
+					<Row Self="u1f9fi1fb4Row2" Name="2" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" />
+					<Row Self="u1f9fi1fb4Row3" Name="3" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="36.27523311104362" />
+					<Row Self="u1f9fi1fb4Row4" Name="4" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="12.275233111043615" />
+					<Row Self="u1f9fi1fb4Row5" Name="5" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="24.27523311104362" />
+					<Row Self="u1f9fi1fb4Row6" Name="6" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="48.27523311104362" />
+					<Column Self="u1f9fi1fb4Column0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="118.78198348044978" />
+					<Column Self="u1f9fi1fb4Column1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="118.78198348044978" />
+					<Cell Self="u1f9fi1fb4i0" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Bold">
+								<Content>Primary Ability</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1f9fi1fb4i1" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Wisdom</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1f9fi1fb4i2" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Bold">
+								<Content>Hit Point Die</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1f9fi1fb4i3" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>D8 per level</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1f9fi1fb4i4" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Bold">
+								<Content>Saving Throw Proficiencies</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1f9fi1fb4i5" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Wisdom and Charisma</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1f9fi1fb4i6" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Bold">
+								<Content>Skill Proficiencies</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1f9fi1fb4i7" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body - Italic to colon">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Choose 2: History, Insight, Medicine, Persuasion, or Religion</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1f9fi1fb4i8" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Bold">
+								<Content>Weapon Proficiencies</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1f9fi1fb4i9" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Simple Weapons</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1f9fi1fb4ia" Name="0:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Bold">
+								<Content>Armor Training</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1f9fi1fb4ib" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Light and Medium armor and Shields</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1f9fi1fb4ic" Name="0:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Scaly Sans Bold">
+								<Content>Starting Equipment</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u1f9fi1fb4id" Name="1:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="2.834645669291339" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Basic Table - Body" AppliedCellStylePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tables%3aTable - Body - Italic to colon">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Choose A or B: (A) Chain Shirt, Shield, Mace, Holy Symbol, Priest’s Pack and 7 GP; or (B) 110 GP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+				</Table>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
