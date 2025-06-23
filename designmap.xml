@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="document" readerVersion="6.0" featureSet="257" product="20.2(36)" ?>
+<Document xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2" Self="d" StoryList="u12b u18c u2a2 u2dc u2f7 u314 u334 u37f u4ab u50b u584 u59f u81c u8b8 u999 u9ef ua6b ua8f uaac uacc ubaa ubc7 ubde ubf9 ucfd ud28 ud5b ud7e uf80 ufc2 u1069 u1222 u15a7 u1868 u1881 u1985 u199c u1a55 u1a6c u1ad8 u1b1e u1b4b u1b62 u1b99 u1bb0 u1bde u1d50 u1d67 u1e85 u1e9c u1eea u1f4d u1f7d u1f9f u1ff7 u20bc u2145 u215f u229d u22c8 u22e4 u2300 u238d u23d5 u2504 u251b u265b u2683 u26a9 u26c0 u271c u2733 u2750 u2786 u27a8 u27c2 u27df u27f7 u2829 u2846 u2a91 u2aa8 ub1" Name="2024_D&amp;D_Template_AdobeFonts.indd" ZeroPoint="0 0" ActiveLayer="ucc" CMYKProfile="U.S. Web Coated (SWOP) v2" RGBProfile="sRGB IEC61966-2.1" SolidColorIntent="UseColorSettings" AfterBlendingIntent="UseColorSettings" DefaultImageIntent="UseColorSettings" RGBPolicy="PreserveEmbeddedProfiles" CMYKPolicy="CombinationOfPreserveAndSafeCmyk" AccurateLABSpots="false" AppliedMathMLFontSize="10" AppliedMathMLRgbColor="0 0 0" TintValue="100">
+	<Properties>
+		<Label>
+			<KeyValuePair Key="kAdobeDPS_Version" Value="2" />
+		</Label>
+		<AppliedMathMLSwatch type="enumeration">Nothing</AppliedMathMLSwatch>
+	</Properties>
+	<Language Self="Language/$ID/English%3a UK" Name="$ID/English: UK" SingleQuotes="‘’" DoubleQuotes="“”" PrimaryLanguageName="$ID/English" SublanguageName="$ID/UK" Id="525" HyphenationVendor="Hunspell" SpellingVendor="Hunspell" />
+	<Language Self="Language/$ID/English%3a USA" Name="$ID/English: USA" SingleQuotes="‘’" DoubleQuotes="“”" PrimaryLanguageName="$ID/English" SublanguageName="$ID/USA" Id="269" HyphenationVendor="Hunspell" SpellingVendor="Hunspell" />
+	<idPkg:Graphic src="Resources/Graphic.xml" />
+	<idPkg:Fonts src="Resources/Fonts.xml" />
+	<idPkg:Styles src="Resources/Styles.xml" />
+	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
+	<NamedGrid Self="NamedGrid/$ID/[Page Grid]" Name="$ID/[Page Grid]">
+		<GridDataInformation FontStyle="Regular" PointSize="12" CharacterAki="0" LineAki="9" HorizontalScale="100" VerticalScale="100" LineAlignment="LeftOrTopLineJustify" GridAlignment="AlignEmCenter" CharacterAlignment="AlignEmCenter">
+			<Properties>
+				<AppliedFont type="string">Minion Pro (OTF)</AppliedFont>
+			</Properties>
+		</GridDataInformation>
+	</NamedGrid>
+	<ConditionalTextPreference ShowConditionIndicators="ShowIndicators" ActiveConditionSet="n" />
+	<idPkg:Preferences src="Resources/Preferences.xml" />
+	<EndnoteOption EndnoteTitle="Endnotes" EndnoteTitleStyle="ParagraphStyle/$ID/NormalParagraphStyle" StartEndnoteNumberAt="1" EndnoteMarkerStyle="CharacterStyle/$ID/[No character style]" EndnoteTextStyle="ParagraphStyle/$ID/NormalParagraphStyle" EndnoteSeparatorText="&#x9;" EndnotePrefix="" EndnoteSuffix="">
+		<Properties>
+			<EndnoteNumberingStyle type="enumeration">Arabic</EndnoteNumberingStyle>
+			<RestartEndnoteNumbering type="enumeration">Continuous</RestartEndnoteNumbering>
+			<EndnoteMarkerPositioning type="enumeration">SuperscriptMarker</EndnoteMarkerPositioning>
+			<ScopeValue type="enumeration">EndnoteDocumentScope</ScopeValue>
+			<FrameCreateOption type="enumeration">NewPage</FrameCreateOption>
+			<ShowEndnotePrefixSuffix type="enumeration">NoPrefixSuffix</ShowEndnotePrefixSuffix>
+		</Properties>
+	</EndnoteOption>
+	<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
+	<LinkedStoryOption UpdateWhileSaving="false" WarnOnUpdateOfEditedStory="true" RemoveForcedLineBreaks="false" ApplyStyleMappings="false" />
+	<LinkedPageItemOption UpdateLinkWhileSaving="false" WarnOnUpdateOfEditedPageItem="true" PreserveSizeAndShape="false" PreserveAppearance="false" PreserveInteractivity="false" PreserveFrameContent="false" PreserveOthers="false" />
+	<WatermarkPreference WatermarkVisibility="false" WatermarkDoPrint="false" WatermarkDrawInBack="true" WatermarkText="" WatermarkFontFamily="Minion Pro" WatermarkFontStyle="Regular" WatermarkFontPointSize="48" WatermarkOpacity="50" WatermarkRotation="0" WatermarkHorizontalPosition="WatermarkHCenter" WatermarkHorizontalOffset="0" WatermarkVerticalPosition="WatermarkVCenter" WatermarkVerticalOffset="0">
+		<Properties>
+			<WatermarkFontColor type="enumeration">Black</WatermarkFontColor>
+		</Properties>
+	</WatermarkPreference>
+	<TaggedPDFPreference StructureOrder="UseXMLStructure" />
+	<AdjustLayoutPreference EnableAdjustLayout="false" AllowLockedObjectsToAdjust="true" AllowFontSizeAndLeadingAdjustment="false" ImposeFontSizeRestriction="false" MinimumFontSize="6" MaximumFontSize="324" EnableAutoAdjustMargins="false" />
+	<HTMLFXLExportPreference EpubPageRange="" EpubPageRangeFormat="ExportAllPages" />
+	<PublishExportPreference PublishCover="FirstPage" CoverImageFile="" PublishPageRange="" PublishPageRangeFormat="ExportAllPages" ImageConversion="Automatic" ImageExportResolution="Ppi96" PublishDescription="" PublishFileName="" PublishFormat="PublishByPages" CoverPage="$ID/" GIFOptionsPalette="AdaptivePalette" JPEGOptionsQuality="High" PublishPdf="false" />
+	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefChapterNumber" Name="&lt;?AID 001b?&gt;TV XRefChapterNumber" VariableType="XrefChapterNumberType" />
+	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" VariableType="XrefPageNumberType" />
+	<TextVariable Self="dTextVariablenChapter Number" Name="Chapter Number" VariableType="ChapterNumberType">
+		<ChapterNumberVariablePreference TextBefore="" Format="Current" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenCreation Date" Name="Creation Date" VariableType="CreationDateType">
+		<DateVariablePreference TextBefore="" Format="dd/MM/yy" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenFile Name" Name="File Name" VariableType="FileNameType">
+		<FileNameVariablePreference TextBefore="" IncludePath="false" IncludeExtension="false" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenImage Name" Name="Image Name" VariableType="LiveCaptionType">
+		<CaptionMetadataVariablePreference TextBefore="" MetadataProviderName="$ID/#LinkInfoNameStr" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenLast Page Number" Name="Last Page Number" VariableType="LastPageNumberType">
+		<PageNumberVariablePreference TextBefore="" Format="Current" TextAfter="" Scope="SectionScope" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenModification Date" Name="Modification Date" VariableType="ModificationDateType">
+		<DateVariablePreference TextBefore="" Format="d MMMM yyyy h:mm aa" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenOutput Date" Name="Output Date" VariableType="OutputDateType">
+		<DateVariablePreference TextBefore="" Format="dd/MM/yy" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenRunning Header" Name="Running Header" VariableType="MatchParagraphStyleType">
+		<MatchParagraphStylePreference TextBefore="" TextAfter="" AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" SearchStrategy="FirstOnPage" ChangeCase="None" DeleteEndPunctuation="false" />
+	</TextVariable>
+	<idPkg:Tags src="XML/Tags.xml" />
+	<Layer Self="u1a0" Name="Page texture" Visible="true" Locked="false" IgnoreWrap="false" ShowGuides="true" LockGuides="false" UI="true" Expendable="true" Printable="true">
+		<Properties>
+			<LayerColor type="enumeration">Red</LayerColor>
+		</Properties>
+	</Layer>
+	<Layer Self="u2bb" Name="Cover Page Image" Visible="true" Locked="false" IgnoreWrap="false" ShowGuides="true" LockGuides="false" UI="true" Expendable="true" Printable="true">
+		<Properties>
+			<LayerColor type="enumeration">Magenta</LayerColor>
+		</Properties>
+	</Layer>
+	<Layer Self="u1aa" Name="Graphic Elements" Visible="true" Locked="false" IgnoreWrap="false" ShowGuides="true" LockGuides="false" UI="true" Expendable="true" Printable="true">
+		<Properties>
+			<LayerColor type="enumeration">Blue</LayerColor>
+		</Properties>
+	</Layer>
+	<Layer Self="ucc" Name="Content / Text" Visible="true" Locked="false" IgnoreWrap="false" ShowGuides="true" LockGuides="false" UI="true" Expendable="true" Printable="true">
+		<Properties>
+			<LayerColor type="enumeration">LightBlue</LayerColor>
+		</Properties>
+	</Layer>
+	<Layer Self="u1a5" Name="Page Elements" Visible="true" Locked="false" IgnoreWrap="false" ShowGuides="true" LockGuides="false" UI="true" Expendable="true" Printable="true">
+		<Properties>
+			<LayerColor type="enumeration">Green</LayerColor>
+		</Properties>
+	</Layer>
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_ud6.xml" />
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_u1bc.xml" />
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_uc54.xml" />
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_uf4f.xml" />
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_u19c3.xml" />
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_u1d96.xml" />
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_u1a3e.xml" />
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_u1d3c.xml" />
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_u24f0.xml" />
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_u256d.xml" />
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_u2a7d.xml" />
+	<idPkg:Spread src="Spreads/Spread_u249.xml" />
+	<idPkg:Spread src="Spreads/Spread_ucf.xml" />
+	<idPkg:Spread src="Spreads/Spread_u36d.xml" />
+	<idPkg:Spread src="Spreads/Spread_ueff.xml" />
+	<idPkg:Spread src="Spreads/Spread_u1cad.xml" />
+	<idPkg:Spread src="Spreads/Spread_u7dc.xml" />
+	<idPkg:Spread src="Spreads/Spread_u24ab.xml" />
+	<idPkg:Spread src="Spreads/Spread_u499.xml" />
+	<idPkg:Spread src="Spreads/Spread_u1f66.xml" />
+	<idPkg:Spread src="Spreads/Spread_u2705.xml" />
+	<idPkg:Spread src="Spreads/Spread_u7ae.xml" />
+	<idPkg:Spread src="Spreads/Spread_u2203.xml" />
+	<Section Self="ud5" Length="5" Name="" ContinueNumbering="true" IncludeSectionPrefix="false" Marker="Section" PageStart="u254" SectionPrefix="" AlternateLayoutLength="22" AlternateLayout="Letter V">
+		<Properties>
+			<PageNumberStyle type="enumeration">Arabic</PageNumberStyle>
+		</Properties>
+	</Section>
+	<Section Self="u1ff5" Length="13" Name="" ContinueNumbering="true" IncludeSectionPrefix="false" Marker="Chapter 1 | Styles" PageStart="uf0c" SectionPrefix="" AlternateLayoutLength="17" AlternateLayout="">
+		<Properties>
+			<PageNumberStyle type="enumeration">Arabic</PageNumberStyle>
+		</Properties>
+	</Section>
+	<Section Self="uf4e" Length="1" Name="" ContinueNumbering="true" IncludeSectionPrefix="false" Marker="Chapter 2 | Technical" PageStart="u5f3" SectionPrefix="" AlternateLayoutLength="4" AlternateLayout="">
+		<Properties>
+			<PageNumberStyle type="enumeration">Arabic</PageNumberStyle>
+		</Properties>
+	</Section>
+	<Section Self="u2219" Length="3" Name="" ContinueNumbering="true" IncludeSectionPrefix="false" Marker="Chapter 3 | Image Masks" PageStart="u146a" SectionPrefix="" AlternateLayoutLength="3" AlternateLayout="">
+		<Properties>
+			<PageNumberStyle type="enumeration">Arabic</PageNumberStyle>
+		</Properties>
+	</Section>
+	<DocumentUser Self="dDocumentUser0" UserName="$ID/Unknown User Name">
+		<Properties>
+			<UserColor type="enumeration">Gold</UserColor>
+		</Properties>
+	</DocumentUser>
+	<CrossReferenceFormat Self="u9f" Name="Full Paragraph &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9fBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9fBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9fBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9fBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua0" Name="Full Paragraph" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua0BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua0BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua0BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua1" Name="Paragraph Text &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua1BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua1BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua1BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua1BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua2" Name="Paragraph Text" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua2BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua2BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua2BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua3" Name="Paragraph Number &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua3BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua3BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua3BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua4" Name="Paragraph Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua4BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua5" Name="Text Anchor Name &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua5BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua5BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua5BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua5BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua6" Name="Text Anchor Name" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua6BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua6BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua6BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua7" Name="Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua7BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua7BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<idPkg:BackingStory src="XML/BackingStory.xml" />
+	<idPkg:Story src="Stories/Story_u2aa8.xml" />
+	<idPkg:Story src="Stories/Story_u2a91.xml" />
+	<idPkg:Story src="Stories/Story_u2846.xml" />
+	<idPkg:Story src="Stories/Story_u2829.xml" />
+	<idPkg:Story src="Stories/Story_u27f7.xml" />
+	<idPkg:Story src="Stories/Story_u27df.xml" />
+	<idPkg:Story src="Stories/Story_u27c2.xml" />
+	<idPkg:Story src="Stories/Story_u27a8.xml" />
+	<idPkg:Story src="Stories/Story_u2786.xml" />
+	<idPkg:Story src="Stories/Story_u2750.xml" />
+	<idPkg:Story src="Stories/Story_u2733.xml" />
+	<idPkg:Story src="Stories/Story_u271c.xml" />
+	<idPkg:Story src="Stories/Story_u26c0.xml" />
+	<idPkg:Story src="Stories/Story_u26a9.xml" />
+	<idPkg:Story src="Stories/Story_u2683.xml" />
+	<idPkg:Story src="Stories/Story_u265b.xml" />
+	<idPkg:Story src="Stories/Story_u251b.xml" />
+	<idPkg:Story src="Stories/Story_u2504.xml" />
+	<idPkg:Story src="Stories/Story_u23d5.xml" />
+	<idPkg:Story src="Stories/Story_u238d.xml" />
+	<idPkg:Story src="Stories/Story_u2300.xml" />
+	<idPkg:Story src="Stories/Story_u22e4.xml" />
+	<idPkg:Story src="Stories/Story_u22c8.xml" />
+	<idPkg:Story src="Stories/Story_u229d.xml" />
+	<idPkg:Story src="Stories/Story_u215f.xml" />
+	<idPkg:Story src="Stories/Story_u2145.xml" />
+	<idPkg:Story src="Stories/Story_u20bc.xml" />
+	<idPkg:Story src="Stories/Story_u1ff7.xml" />
+	<idPkg:Story src="Stories/Story_u1f9f.xml" />
+	<idPkg:Story src="Stories/Story_u1f7d.xml" />
+	<idPkg:Story src="Stories/Story_u1f4d.xml" />
+	<idPkg:Story src="Stories/Story_u1eea.xml" />
+	<idPkg:Story src="Stories/Story_u1e9c.xml" />
+	<idPkg:Story src="Stories/Story_u1e85.xml" />
+	<idPkg:Story src="Stories/Story_u1d67.xml" />
+	<idPkg:Story src="Stories/Story_u1d50.xml" />
+	<idPkg:Story src="Stories/Story_u1bde.xml" />
+	<idPkg:Story src="Stories/Story_u1bb0.xml" />
+	<idPkg:Story src="Stories/Story_u1b99.xml" />
+	<idPkg:Story src="Stories/Story_u1b62.xml" />
+	<idPkg:Story src="Stories/Story_u1b4b.xml" />
+	<idPkg:Story src="Stories/Story_u1b1e.xml" />
+	<idPkg:Story src="Stories/Story_u1ad8.xml" />
+	<idPkg:Story src="Stories/Story_u1a6c.xml" />
+	<idPkg:Story src="Stories/Story_u1a55.xml" />
+	<idPkg:Story src="Stories/Story_u199c.xml" />
+	<idPkg:Story src="Stories/Story_u1985.xml" />
+	<idPkg:Story src="Stories/Story_u1881.xml" />
+	<idPkg:Story src="Stories/Story_u1868.xml" />
+	<idPkg:Story src="Stories/Story_u15a7.xml" />
+	<idPkg:Story src="Stories/Story_u1222.xml" />
+	<idPkg:Story src="Stories/Story_u1069.xml" />
+	<idPkg:Story src="Stories/Story_ufc2.xml" />
+	<idPkg:Story src="Stories/Story_uf80.xml" />
+	<idPkg:Story src="Stories/Story_ud7e.xml" />
+	<idPkg:Story src="Stories/Story_ud5b.xml" />
+	<idPkg:Story src="Stories/Story_ud28.xml" />
+	<idPkg:Story src="Stories/Story_ucfd.xml" />
+	<idPkg:Story src="Stories/Story_ubf9.xml" />
+	<idPkg:Story src="Stories/Story_ubde.xml" />
+	<idPkg:Story src="Stories/Story_ubc7.xml" />
+	<idPkg:Story src="Stories/Story_ubaa.xml" />
+	<idPkg:Story src="Stories/Story_uacc.xml" />
+	<idPkg:Story src="Stories/Story_ua8f.xml" />
+	<idPkg:Story src="Stories/Story_ua6b.xml" />
+	<idPkg:Story src="Stories/Story_u999.xml" />
+	<idPkg:Story src="Stories/Story_u8b8.xml" />
+	<idPkg:Story src="Stories/Story_u81c.xml" />
+	<idPkg:Story src="Stories/Story_u59f.xml" />
+	<idPkg:Story src="Stories/Story_u584.xml" />
+	<idPkg:Story src="Stories/Story_u50b.xml" />
+	<idPkg:Story src="Stories/Story_u4ab.xml" />
+	<idPkg:Story src="Stories/Story_u37f.xml" />
+	<idPkg:Story src="Stories/Story_u334.xml" />
+	<idPkg:Story src="Stories/Story_u314.xml" />
+	<idPkg:Story src="Stories/Story_u2f7.xml" />
+	<idPkg:Story src="Stories/Story_u2dc.xml" />
+	<idPkg:Story src="Stories/Story_u2a2.xml" />
+	<idPkg:Story src="Stories/Story_u18c.xml" />
+	<idPkg:Story src="Stories/Story_u12b.xml" />
+	<idPkg:Story src="Stories/Story_uaac.xml" />
+	<idPkg:Story src="Stories/Story_u9ef.xml" />
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10629" Name=".10629" NameManually="true" DestinationPage="uf0c" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="199">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10633" Name=".10633" NameManually="true" DestinationPage="uf0c" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="200">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10627" Name=".10627" NameManually="true" DestinationPage="uf0c" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="201">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10645" Name=".10645" NameManually="true" DestinationPage="uf0d" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="206">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10643" Name=".10643" NameManually="true" DestinationPage="uf0d" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="207">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10647" Name=".10647" NameManually="true" DestinationPage="uf0d" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="208">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10625" Name=".10625" NameManually="true" DestinationPage="u1cba" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="209">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10655" Name=".10655" NameManually="true" DestinationPage="u1cba" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="210">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10653" Name=".10653" NameManually="true" DestinationPage="u1cba" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="211">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10657" Name=".10657" NameManually="true" DestinationPage="u1cba" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="212">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10651" Name=".10651" NameManually="true" DestinationPage="u7f9" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="213">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10663" Name=".10663" NameManually="true" DestinationPage="u7f6" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="214">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10661" Name=".10661" NameManually="true" DestinationPage="u7f8" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="215">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10665" Name=".10665" NameManually="true" DestinationPage="u4a6" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="216">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10659" Name=".10659" NameManually="true" DestinationPage="u4a6" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="217">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10649" Name=".10649" NameManually="true" DestinationPage="u7f7" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="219">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10673" Name=".10673" NameManually="true" DestinationPage="u4a7" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="220">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10671" Name=".10671" NameManually="true" DestinationPage="u4a7" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="221">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10675" Name=".10675" NameManually="true" DestinationPage="u5f2" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="222">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10669" Name=".10669" NameManually="true" DestinationPage="u5f3" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="223">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10681" Name=".10681" NameManually="true" DestinationPage="u5f3" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="224">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10679" Name=".10679" NameManually="true" DestinationPage="u5f3" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="225">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10683" Name=".10683" NameManually="true" DestinationPage="u5f3" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="226">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10677" Name=".10677" NameManually="true" DestinationPage="u5f3" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="227">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10689" Name=".10689" NameManually="true" DestinationPage="u5f3" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="228">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10687" Name=".10687" NameManually="true" DestinationPage="u5f3" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="229">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10691" Name=".10691" NameManually="true" DestinationPage="u5f3" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="230">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10685" Name=".10685" NameManually="true" DestinationPage="u146a" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="231">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10695" Name=".10695" NameManually="true" DestinationPage="u146a" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="232">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10693" Name=".10693" NameManually="true" DestinationPage="u146a" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="233">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10697" Name=".10697" NameManually="true" DestinationPage="u146a" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="234">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.10699" Name=".10699" NameManually="true" DestinationPage="u808" ViewSetting="FitWindow" ViewPercentage="100" Hidden="true" DestinationUniqueKey="235">
+		<Properties>
+			<ViewBounds Top="1e+256" Left="1e+256" Bottom="1e+256" Right="1e+256" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.patreon.com/wgtngm" Name="http://www.patreon.com/wgtngm" DestinationURL="http://www.patreon.com/wgtngm" Hidden="false" DestinationUniqueKey="1" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//github.com/jonathonf/solbera-dnd-fonts" Name="http://github.com/jonathonf/solbera-dnd-fonts" DestinationURL="http://github.com/jonathonf/solbera-dnd-fonts" Hidden="false" DestinationUniqueKey="2" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//fonts.adobe.com" Name="http://fonts.adobe.com" DestinationURL="http://fonts.adobe.com" Hidden="false" DestinationUniqueKey="3" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/www.patreon.com/wgtngm" Name="www.patreon.com/wgtngm" DestinationURL="www.patreon.com/wgtngm" Hidden="false" DestinationUniqueKey="70" />
+	<Hyperlink Self="ud74" Name="www.patreon.com/wgtngm" Source="ud71" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkURLDestination/http%3a//www.patreon.com/wgtngm</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="ud79" Name="github.com/jonathonf/solbera-dnd-fonts" Source="ud78" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="2">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkURLDestination/http%3a//github.com/jonathonf/solbera-dnd-fonts</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="ud7c" Name="fonts.adobe.com" Source="ud7b" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="3">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkURLDestination/http%3a//fonts.adobe.com</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u11b2" Name="www.patreon.com/wgtngm 4" Source="u11af" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="70">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkURLDestination/www.patreon.com/wgtngm</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u2982" Name=".10431" Source="u2968" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="209">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10625</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u2984" Name=".10399" Source="u2967" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="201">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10627</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u2986" Name=".10391" Source="u2966" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="199">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10629</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u298a" Name=".10395" Source="u2964" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="200">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10633</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u2994" Name=".10423" Source="u295f" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="207">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10643</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u2996" Name=".10419" Source="u295e" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="206">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10645</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u2998" Name=".10427" Source="u295d" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="208">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10647</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u299a" Name=".10472" Source="u295c" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="219">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10649</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u299c" Name=".10447" Source="u295b" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="213">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10651</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u299e" Name=".10439" Source="u295a" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="211">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10653</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29a0" Name=".10435" Source="u2959" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="210">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10655</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29a2" Name=".10443" Source="u2958" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="212">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10657</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29a4" Name=".10463" Source="u2957" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="217">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10659</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29a6" Name=".10455" Source="u2956" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="215">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10661</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29a8" Name=".10451" Source="u2955" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="214">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10663</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29aa" Name=".10459" Source="u2954" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="216">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10665</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29ae" Name=".10488" Source="u2952" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="223">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10669</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29b0" Name=".10480" Source="u2951" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="221">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10671</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29b2" Name=".10476" Source="u2950" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="220">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10673</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29b4" Name=".10484" Source="u294f" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="222">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10675</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29b6" Name=".10504" Source="u294e" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="227">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10677</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29b8" Name=".10496" Source="u294d" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="225">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10679</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29ba" Name=".10492" Source="u294c" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="224">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10681</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29bc" Name=".10500" Source="u294b" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="226">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10683</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29be" Name=".10522" Source="u294a" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="231">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10685</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29c0" Name=".10513" Source="u2949" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="229">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10687</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29c2" Name=".10509" Source="u2948" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="228">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10689</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29c4" Name=".10518" Source="u2947" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="230">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10691</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29c6" Name=".10530" Source="u2946" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="233">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10693</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29c8" Name=".10526" Source="u2945" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="232">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10695</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29ca" Name=".10535" Source="u2944" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="234">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10697</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u29cc" Name=".10539" Source="u2943" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="235">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.10699</Destination>
+		</Properties>
+	</Hyperlink>
+	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="u18ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch1" SwatchItemRef="Color/Registration" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch3" SwatchItemRef="Color/Black" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch4" SwatchItemRef="Color/c0m95y64k0" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch5" SwatchItemRef="Color/c22m29y58k8" />
+	</ColorGroup>
+	<ColorGroup Self="ColorGroup/Gradiant" Name="Gradiant" IsRootColorGroup="false" />
+	<ColorGroup Self="ColorGroup/Legacy Colours" Name="Legacy Colours" IsRootColorGroup="false">
+		<ColorGroupSwatch Self="u15c9ColorGroupSwatch0" SwatchItemRef="Color/Hyperlink" />
+		<ColorGroupSwatch Self="u15c9ColorGroupSwatch1" SwatchItemRef="Color/Stat Block" />
+	</ColorGroup>
+	<ColorGroup Self="ColorGroup/2024" Name="2024" IsRootColorGroup="false">
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatch0" SwatchItemRef="Color/Box - Light" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatch1" SwatchItemRef="Color/C=0 M=99 Y=98 K=0" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatch2" SwatchItemRef="Color/C=27 M=96 Y=100 K=10" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatch3" SwatchItemRef="Color/MidGrey" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatch4" SwatchItemRef="Color/DarkRed" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatch5" SwatchItemRef="Color/DarkGrey" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatch6" SwatchItemRef="Color/StatBlock_STR_DEX_CON" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatch7" SwatchItemRef="Color/StatBlock_STR_DEX_CON_SAVEMOD" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatch8" SwatchItemRef="Color/StatBlock_INT_WIS_CHA" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatch9" SwatchItemRef="Color/StatBlock_INT_WIS_CHA_SAVEMOD" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatcha" SwatchItemRef="Color/PHB_BLue" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatchb" SwatchItemRef="Color/PHB_2024_Gold" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatchc" SwatchItemRef="Tint/PHB_2024_Gold 80%25" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatchd" SwatchItemRef="Tint/PHB_2024_Gold 50%25" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatche" SwatchItemRef="Gradient/Gold_vert" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatchf" SwatchItemRef="Gradient/Gold to Red" />
+		<ColorGroupSwatch Self="u18d4ColorGroupSwatch10" SwatchItemRef="Color/PHB_2024_Gold Dark" />
+	</ColorGroup>
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Symbol" Name="$ID/kIndexGroup_Symbol" Include="true" Priority="0" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Alphabet" Name="$ID/kIndexGroup_Alphabet" Include="true" Priority="1" HeaderType="BasicLatin" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Numeric" Name="$ID/kIndexGroup_Numeric" Include="false" Priority="2" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_GreekAlphabet" Name="$ID/kWRIndexGroup_GreekAlphabet" Include="false" Priority="3" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_CyrillicAlphabet" Name="$ID/kWRIndexGroup_CyrillicAlphabet" Include="false" Priority="4" HeaderType="Russian" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Kana" Name="$ID/kIndexGroup_Kana" Include="false" Priority="5" HeaderType="HiraganaAll" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Chinese" Name="$ID/kIndexGroup_Chinese" Include="false" Priority="6" HeaderType="ChinesePinyin" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Korean" Name="$ID/kIndexGroup_Korean" Include="false" Priority="7" HeaderType="KoreanConsonant" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_ArabicAlphabet" Name="$ID/kWRIndexGroup_ArabicAlphabet" Include="false" Priority="8" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_HebrewAlphabet" Name="$ID/kWRIndexGroup_HebrewAlphabet" Include="false" Priority="9" HeaderType="Nothing" />
+	<ABullet Self="dABullet0" CharacterType="UnicodeOnly" CharacterValue="8226">
+		<Properties>
+			<BulletsFont type="string">$ID/</BulletsFont>
+			<BulletsFontStyle type="string">$ID/</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet1" CharacterType="UnicodeOnly" CharacterValue="42">
+		<Properties>
+			<BulletsFont type="string">$ID/</BulletsFont>
+			<BulletsFontStyle type="string">$ID/</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet2" CharacterType="UnicodeOnly" CharacterValue="9674">
+		<Properties>
+			<BulletsFont type="string">$ID/</BulletsFont>
+			<BulletsFontStyle type="string">$ID/</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet3" CharacterType="UnicodeWithFont" CharacterValue="187">
+		<Properties>
+			<BulletsFont type="string">Myriad Pro</BulletsFont>
+			<BulletsFontStyle type="string">$ID/Regular</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet4" CharacterType="GlyphWithFont" CharacterValue="503">
+		<Properties>
+			<BulletsFont type="string">Minion Pro (OTF)</BulletsFont>
+			<BulletsFontStyle type="string">$ID/Regular</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<Assignment Self="udd" Name="$ID/UnassignedInCopy" UserName="$ID/" ExportOptions="AssignedSpreads" IncludeLinksWhenPackage="true" FilePath="$ID/">
+		<Properties>
+			<FrameColor type="enumeration">Nothing</FrameColor>
+		</Properties>
+	</Assignment>
+</Document>
