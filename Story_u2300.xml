@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="u2300" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Cover%3aBack Cover%3aBack Cover - Body">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Elentur, sintis etur, aliberum, ime omnis pra inciunt, il maxime dolumquam ea eatiassed qui blab is disi corios re sitatiat fuga. Rores aut eveles magnit reprae. Musdam eni ulpariore, ex et quos dest, officti consecta serestem latendit ut faceaquate conem haria aliatqu iamusciam, que sequisit odi cus.</Content>
+				<Br />
+				<Content>Se nonet quas undae omnisci atquis ento con eos prae non ra con nessint, con prae mi, velitat emperist ab int liciliquia ipsum fugitatum exped ut repudanim ea aliae ad quo quia et ut ium ut lab il ium volenditior sum volorro moluptatum non nonem raeceaquis aborernam, que sandant, sum et exerunt, aut ma con plaborem simodis ipsum vit</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="u15a7" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 0 (page) (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>How the InDesign File is Set Up</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - Drop Cap">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>The indesign template has been set up to make formatting documents in to the D&amp;D 5E handbook style as easy as possible. There is a comprehensive library of Paragraph styles and examples of how they work contained within this document.  Box outs and stat blocks can be done almost entirely within paragraph styles and minimal manual work.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 1 (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Layers Panel</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Page elements are kept separate by the use of layers, each layer is responsible for a different type of element and keeping this tidy will help improve your work flow.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Lists%3aList - Indented Items">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Page Elements: Page numbers, section footer, page graphic devices.</Content>
+				<Br />
+				<Content>Content / Text: All user created content, text, images, other graphics.</Content>
+				<Br />
+				<Content>Graphic Elements: Section graphic devices, watercolour splotch and other alpha masked images.</Content>
+				<Br />
+				<Content>Cover Page Image: Cover, Back Cover and Section images.</Content>
+				<Br />
+				<Content>Page Texture: The parchment background.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 1 (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Pages Panel</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Parent pages are used to quickly format pages.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Lists%3aList - Indented Items">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>A-Parent: Standard page.</Content>
+				<Br />
+				<Content>Frnt-Cover: Cover page.</Content>
+				<Br />
+				<Content>Left-Section: Section page formatted for a left-hand page if laying out as a booklet.</Content>
+				<Br />
+				<Content>Rght-Section: Section page formatted for a right-hand page if laying out as a booklet.</Content>
+				<Br />
+				<Content>B-Blank: Parchment background page with no other elements.</Content>
+				<Br />
+				<Content>Back Cover: Back Cover Page.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 1 (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Table Style Panel</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Table styles make for easy formatting of tables, the Basic Table and Basic Table - Alt Pattern are the two main styles.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" ParagraphBreakType="NextColumn">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 1 (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Paragraph Style Panel</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>The paragraph style panel contains a comprehensive list of styles grouped in to folders. </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Lists%3aList - Indented Items">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Spells: Styles for formatting a spell.</Content>
+				<Br />
+				<Content>Body: Style for formatting the bulk of text, drop caps, and quotes.</Content>
+				<Br />
+				<Content>Boxes: This contains sub-folders with styles for creating all the boxes covered in this document, Class, Green, Stat, White.</Content>
+				<Br />
+				<Content>Cover: Contains the styles for the text on the cover, and a sub-folder with styles for the back cover.</Content>
+				<Br />
+				<Content>Credits: Styles for formatting the credit text on the inside cover.</Content>
+				<Br />
+				<Content>Headings: Contains the bulk text headings, four different heading levels, two that are included in the table of contents.</Content>
+				<Br />
+				<Content>Lists: Styles for bullets, numbered lists, and indented items.</Content>
+				<Br />
+				<Content>Page Elements: Page number and footer.</Content>
+				<Br />
+				<Content>Section Page: Title and subtitle for the section pages.</Content>
+				<Br />
+				<Content>Stat Block: All the styles needed to create a creature stat block.</Content>
+				<Br />
+				<Content>Tables: Heading, header row and body styles.</Content>
+				<Br />
+				<Content>Title Page: Style to format the title page.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Headings%3aHeading 1 (toc)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Character Style Panel</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Body%3aBody Copy - First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>The styles in here are to support the Paragraph Styles.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
