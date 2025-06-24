@@ -222,50 +222,50 @@ QUICK BUILD
 ##Body text
 You can make an inventor quickly by following these suggestions. For the Gadgetsmith, Thundersmith, Cursesmith, or Relicsmith specializations, make your highest ability score Dexterity, followed by Intelligence; for the Golemsmith, Infusionsmith, Potionsmith, or Runesmith specializations, make Intelligence your highest, followed by Constitution or Dexterity; and for Warsmith or Fleshsmith specializations, choose either Strength or Intelligence as your highest, with Constitution as your second-highest ability score. Second, choose a background that emphasizes your connection to a guild or society.
 
-##Heading 2
+###Table:Table - Heading
 THE INVENTOR
 
-##Body text
+###Table:Table - Header Row
 Level	Proficiency Bonus	Features	Spells Known	1st	2nd	3rd	4th	5th	Upgrades
-##Table body
+###Table:Table - Body
 1st	+2	Inventor Specialization, Magic Item Analysis	—	—	—	—	—	—	—
-##Table body
+###Table:Table - Body
 2nd	+2	Spellcasting, Arcane Retrofit, Tool Expertise	3	2	—	—	—	—	—
-##Table body
+###Table:Table - Body
 3rd	+2	Inventor Specialization feature, Specialization Upgrade	4	3	—	—	—	—	1
-##Table body
+###Table:Table - Body
 4th	+2	Ability Score Improvement	4	3	—	—	—	—	1
-##Table body
+###Table:Table - Body
 5th	+3	Inventor Specialization Feature	5	4	2	—	—	—	2
-##Table body
+###Table:Table - Body
 6th	+3	Arcane Reconstruction, Cross-Disciplinary Knowledge	5	4	2	—	—	—	2
-##Table body
+###Table:Table - Body
 7th	+3	Wondrous Item Proficiency	6	4	3	—	—	—	3
-##Table body
+###Table:Table - Body
 8th	+3	Ability Score Improvement	6	4	3	—	—	—	3
-##Table body
+###Table:Table - Body
 9th	+4	—	7	4	3	2	—	—	4
-##Table body
+###Table:Table - Body
 10th	+4	Improved Magical Crafting, Wondrous Item Recharge	7	4	3	2	—	—	4
-##Table body
+###Table:Table - Body
 11th	+4	Study of Magic	8	4	3	3	—	—	5
-##Table body
+###Table:Table - Body
 12th	+4	Ability Score Improvement	8	4	3	3	—	—	5
-##Table body
+###Table:Table - Body
 13th	+5	—	9	4	3	3	1	—	6
-##Table body
+###Table:Table - Body
 14th	+5	Inventor Specialization Feature	9	4	3	3	1	—	6
-##Table body
+###Table:Table - Body
 15th	+5	—	10	4	3	3	2	—	7
-##Table body
+###Table:Table - Body
 16th	+5	Ability Score Improvement	10	4	3	3	2	—	7
-##Table body
+###Table:Table - Body
 17th	+6	—	11	4	3	3	2	1	8
-##Table body
+###Table:Table - Body
 18th	+6	Wondrous Item Mastery	11	4	3	3	3	1	8
-##Table body
+###Table:Table - Body
 19th	+6	Ability Score Improvement	12	4	3	3	3	2	9
-##Table body
+###Table:Table - Body
 20th	+6	Peerless Inventor	12	4	3	3	3	2	9
 
 ##Heading 2
@@ -836,7 +836,6 @@ The construct can’t take any actions besides the ones you direct it to take wi
 CROSSBOW SPIDER
 
 ##Heading 2
-XXXXX
 ##Body text
 Hit Points 5
 ##Body text
@@ -1007,7 +1006,6 @@ The construct can’t take any actions besides the ones you direct it to take wi
 NEXUS HIVE
 
 ##Heading 2
-XXXXX
 ##Body text
 Hit Points 30
 ##Body text
@@ -1108,7 +1106,6 @@ Your golem becomes akin to a mobile turret, taking the frame of a ballista or ot
 GOLEM
 
 ##Heading 2
-XXXXX
 ##Body text
 Hit Points (5 + (the golem's Constitution modifier +5) * your inventor level)
 ##Body text
@@ -1901,19 +1898,18 @@ ALCHEMICAL INFUSIONS
 ##Body text
 At 3rd level, you have discovered the secrets to drastically bypass the alchemical brewing process, crafting potent magical effects through the direct infusion of the potion with your own magic. When you finish a short or long rest, you can create any number of potions, choosing one of the following spells for each potion and expending a spell slot as if you were casting the spell. You must provide an empty vial for each potion you create in this way.
 
-##Heading 2
-XXXXXXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Spell Level	Infusion Spells
-##Table body
+###Table:Table - Body
 1st	cure wounds, fog cloud, grease, heroism
-##Table body
+###Table:Table - Body
 2nd	barkskin, lesser restoration, shatter, web
-##Table body
+###Table:Table - Body
 3rd	blink, haste, stinking cloud, water breathing
-##Table body
+###Table:Table - Body
 4th	confusion, stoneskin
-##Table body
+###Table:Table - Body
 5th	cloudkill
 
 ##Body text
@@ -2105,15 +2101,14 @@ Secrets of Acid
 You learn the secrets of infusing acid into your infused potions. You add the following options to your list of available spells for your Alchemical Infusions:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Spell Level	Infusion Spells
-##Table body
+###Table:Table - Body
 1st	summon ooze*
-##Table body
+###Table:Table - Body
 2nd	acid arrow
-##Table body
+###Table:Table - Body
 3rd	erode*
 
 ### Layout: end frame
@@ -2130,15 +2125,14 @@ Secrets of Fire
 You learn the secrets of infusing fire into your infused potions. You add the following options to your list of available spells for your Alchemical Infusions:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Spell Level	Infusion Spells
-##Table body
+###Table:Table - Body
 1st	faerie fire
-##Table body
+###Table:Table - Body
 2nd	unstable explosion*
-##Table body
+###Table:Table - Body
 3rd	fireball
 
 ### Layout: end frame
@@ -2155,15 +2149,14 @@ Secrets of Flight
 You learn the secrets of infusing the ability to escape the shackles of gravity into your infused potions. You add the following options to your list of available spells for your Alchemical Infusions:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Spell Level	Infusion Spells
-##Table body
+###Table:Table - Body
 1st	feather fall
-##Table body
+###Table:Table - Body
 2nd	levitate
-##Table body
+###Table:Table - Body
 3rd	fly
 
 ### Layout: end frame
@@ -2180,15 +2173,14 @@ Secrets of Frost
 You learn the secrets of infusing frost into your infused potions. You add the following options to your list of available spells for your Alchemical Infusions:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Spell Level	Infusion Spells
-##Table body
+###Table:Table - Body
 1st	freezing shell*
-##Table body
+###Table:Table - Body
 2nd	cold snap*
-##Table body
+###Table:Table - Body
 3rd	flash freeze*
 
 ### Layout: end frame
@@ -2385,7 +2377,6 @@ Select one of the following and consult the Stormforged Weapon table for its sta
 STORMFORGED WEAPONS
 
 ##Heading 2
-XXXXXXXX
 
 ##Body text
 ¹Stormcharged. When you use an action, bonus action, or reaction to attack with a Stormcharged Weapon, you can make only one Attack regardless of the number of attacks you can normally make. If you could otherwise make additional attacks with that action, the weapon deals an extra 3d6 lightning or thunder damage per attack that was foregone. 
@@ -2506,19 +2497,18 @@ Lightning Magic
 After a long study of the internal workings of your Stormforged Weapon, your mastery of lightning and thunder magic is such that you learn the following spells at the following levels and can cast them as Inventor Spells.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Inventor Level	Spell
-##Table body
+###Table:Table - Body
 3rd	lightning tendril*
-##Table body
+###Table:Table - Body
 5th	crackle*
-##Table body
+###Table:Table - Body
 9th	lightning bolt
-##Table body
+###Table:Table - Body
 13th	jumping jolt*
-##Table body
+###Table:Table - Body
 15th	sky burst*
 
 ### Layout: end frame
@@ -2784,7 +2774,6 @@ Other cases can be handled on a case-by-case basis. Consult with your GM and wor
 WARSMITH ARMOR
 
 ##Heading 2
-XXXXXX
 ##Body text
 Armor Name	AC	Weight	Strength Requirement	Stealth	Properties
 ##Body text
@@ -2873,19 +2862,18 @@ Flame Projector
 You gain the ability to unleash fire energy. While wearing your Warplate Gauntlet, you can cast fire bolt , and gain access to the following spells at the following levels while wearing your Warplate Gauntlet:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Inventor Level	Spell
-##Table body
+###Table:Table - Body
 3rd	burning hands
-##Table body
+###Table:Table - Body
 5th	scorching ray
-##Table body
+###Table:Table - Body
 9th	fireball
-##Table body
+###Table:Table - Body
 13th	wall of fire
-##Table body
+###Table:Table - Body
 17th	flame strike
 
 ### Layout: end frame
@@ -2938,19 +2926,18 @@ Lightning Projector
 You gain the ability to unleash lightning energy. While wearing your Warplate Gauntlet, you can cast shocking grasp , and gain access to the following spells at the following levels while wearing your Warplate Gauntlet:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Inventor Level	Spell
-##Table body
+###Table:Table - Body
 3rd	lightning tendril*
-##Table body
+###Table:Table - Body
 5th	lightning charged*
-##Table body
+###Table:Table - Body
 9th	lightning bolt
-##Table body
+###Table:Table - Body
 13th	jumping jolt*
-##Table body
+###Table:Table - Body
 17th	sky burst*
 
 ### Layout: end frame
@@ -3526,7 +3513,6 @@ You use your knowledge of inhuman anatomy and the twisted powers you gain from i
 Each enhancement has an empowered effect. An empowered effect automatically occurs when you roll a 20 to hit with your mutation on an attack with the enhancement, or once per turn on your turn, you can manually activate the empowered condition by expending a spell slot of 1st level or higher.
 
 ##Heading 2
-XXXXX
 ##Body text
 Enhancement	Qualified Mutations	Effect	Empowered Effect
 ##Body text
@@ -3556,7 +3542,6 @@ Fleshcrafted Mutation (You can select this upgrade multiple times.)
 You enhance your body by crafting or mutating a new part through grotesque experimentation. Select one of the following mutations:
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 Mutation	Description
 ##Body text
@@ -3589,17 +3574,16 @@ Forbidden Knowledge
 ##Body text
 You delve into the arcane mechanics of how bodies work. Otherwise known as necromancy. You learn additional spells as shown on the table below:
 
-##Heading 2
-XXXXXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Inventor Level	Spells Learned
-##Table body
+###Table:Table - Body
 3rd	inflict wounds
-##Table body
+###Table:Table - Body
 5th	blindness/deafness, gentle repose
-##Table body
+###Table:Table - Body
 9th	invest life*, vampiric touch
-##Table body
+###Table:Table - Body
 13th	blight
 
 ##Body text
@@ -3936,19 +3920,18 @@ At your GM’s discretion, you may be able to use this feature to shrug off the 
 ##Body text
 When you select this path, you learn the following spells at the following levels. These spells do not count against your spells known, and are Inventor spells for you.
 
-##Heading 2
-XXXXXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Inventor Level	Spell
-##Table body
+###Table:Table - Body
 3rd	protection from evil and good
-##Table body
+###Table:Table - Body
 5th	warding bond
-##Table body
+###Table:Table - Body
 9th	protection from energy
-##Table body
+###Table:Table - Body
 13th	death ward
-##Table body
+###Table:Table - Body
 17th	dispel evil and good
 
 ##Body text
@@ -3965,19 +3948,18 @@ Additionally, when you suffer the effect of any curse of one of the upgrades gra
 ##Body text
 When you select this path, you learn the following spells at the following levels. These spells do not count against your spells known, and are Inventor spells for you.
 
-##Heading 2
-XXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Inventor Level	Spell
-##Table body
+###Table:Table - Body
 3rd	bane
-##Table body
+###Table:Table - Body
 5th	disorient*
-##Table body
+###Table:Table - Body
 9th	bestow curse
-##Table body
+###Table:Table - Body
 13th	phantasmal kille r
-##Table body
+###Table:Table - Body
 17th	killing curse*
 
 ### Layout: end frame
@@ -3998,19 +3980,18 @@ Furthermore, when you gain temporary hit points from this feature, you can inste
 ##Body text
 When you select this path, you learn the following spells at the following levels. These spells do not count against your spells known, and are Inventor spells for you.
 
-##Heading 2
-XXXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Inventor Level	Spell
-##Table body
+###Table:Table - Body
 3rd	inflict wounds
-##Table body
+###Table:Table - Body
 5th	darkness
-##Table body
+###Table:Table - Body
 9th	mutate*
-##Table body
+###Table:Table - Body
 13th	ichorous blood*
-##Table body
+###Table:Table - Body
 17th	devouring darkness*
 
 ### Layout: end frame
@@ -4051,15 +4032,14 @@ Abhorrent Split (Prerequisite: Forbidden Artifact with damage die of d8 or highe
 ##Body text
 When awakened, your Forbidden Artifact splits into multiple writhing branches. The weapon's damage dice convert to smaller increments based on the table below:
 
-##Heading 2
-X
+###Table:Table - Heading
 ##Body text
 Damage Dice	Awakened Damage Dice
-##Body text
+###Table:Table - Header Row
 1d12 or 2d6	3d4
-##Table body
+###Table:Table - Body
 1d10	1d6 + 1d4
-##Table body
+###Table:Table - Body
 1d8	2d4
 
 ##Body text
@@ -4086,19 +4066,18 @@ Dark Magic
 ##Body text
 You record some of the foulest effects your experiments have had, codifying them into magical spells. You learn the following spells. They are Inventor spells for you, but do not count against your spells known.
 
-##Heading 2
-XXXXXXXXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Spell Level	Spell
-##Table body
+###Table:Table - Body
 1st	crippling agony*
-##Table body
+###Table:Table - Body
 2nd	blindness/deafness
-##Table body
+###Table:Table - Body
 3rd	rain of spiders*
-##Table body
+###Table:Table - Body
 4th	blight
-##Table body
+###Table:Table - Body
 5th	contagion
 
 ##Body text
@@ -4115,19 +4094,18 @@ You assume the hit points of your new form. When you revert to your normal form,
 ##Body text
 You do not gain any spells the form can cast, legendary actions, or legendary resistances it might have. Your gear melds into the new form. The creature can’t activate, use, wield, or otherwise benefit from any of its equipment.
 
-##Heading 2
-XXXXXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Spell Slot Level	Fiend Options
-##Table body
+###Table:Table - Body
 1st	Imp
-##Table body
+###Table:Table - Body
 2nd	CR 2 Devil¹
-##Table body
+###Table:Table - Body
 3rd	Bearded Devil
-##Table body
+###Table:Table - Body
 4th	CR 4 Devil¹
-##Table body
+###Table:Table - Body
 5th	Barbed Devil or CR 5 Devil¹
 
 ##Body text
@@ -4308,17 +4286,16 @@ Once you use the ring to invoke a nightmare, you can’t use it until you finish
 ##Bullet
  • Curse. You can’t choose the nightmare invoked. When you invoke a nightmare, roll 1d4 and consult the following table:
 
-##Heading 2
-XXXXXXXXXXXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d4	Spell Cast
-##Table body
+###Table:Table - Body
 1	blindness/deafness
-##Table body
+###Table:Table - Body
 2	rain of spiders*
-##Table body
+###Table:Table - Body
 3	phantasmal killer
-##Table body
+###Table:Table - Body
 4	black tentacles
 
 ##Body text
@@ -4480,7 +4457,6 @@ An imposing rune that speaks to raw power.
 It has the following effects:
 
 ##Heading 2
-XXXXX
 ##Body text
 Target	Effect
 ##Body text
@@ -4502,7 +4478,6 @@ A jagged rune that manipulates energy and controls lightning.
 It has the following effects:
 
 ##Heading 2
-XXXXX
 ##Body text
 Target	Effect
 ##Body text
@@ -4525,7 +4500,6 @@ A swirling rune that represents fire and burning.
 It has the following effects:
 
 ##Heading 2
-XXXXX
 ##Body text
 Target	Effect
 ##Body text
@@ -4547,7 +4521,6 @@ A stalwart rune that wards off harm.
 It has the following effects:
 
 ##Heading 2
-XXXXX
 ##Body text
 Target	Effect
 ##Body text
@@ -4590,7 +4563,6 @@ Runic Sage
 You gain the ability to invoke spells with the magical power of the runes. You can use the runes you’ve marked to channel magic. You gain the following spells based on which runes you currently have marked.
 
 ##Heading 2
-XX
 ##Body text
 Rune	Cantrip	Spell
 ##Body text
@@ -4663,7 +4635,6 @@ Glyph Magic
 You gain the ability to cast glyphs. You learn the following spells at the following levels. These spells are Inventor spells for you, but do not count against your spells known.
 
 ##Heading 2
-XXXXX
 ##Body text
 Type	Effect	Level Requirement
 ##Body text
@@ -4696,7 +4667,6 @@ Rune of Blood
  An esoteric rune that binds the essence of life. It has the following effects:
 
 ##Heading 2
-XXXXX
 ##Body text
 Target	Effect
 ##Body text
@@ -4714,7 +4684,6 @@ Rune of Gravity
 A complex rune that manipulates the interactions of objects to change gravity. It has the following effects:
 
 ##Heading 2
-XXXXX
 ##Body text
 Target	Effect
 ##Body text
@@ -4778,7 +4747,6 @@ Rune Magic (Prerequisite: Runic Sage)
 You gain access to more powerful magic through your runes.
 
 ##Heading 2
-XXX
 ##Body text
 Rune	Spells
 ##Body text
@@ -4827,7 +4795,6 @@ Greater Rune Magic (Prerequisite: Runic Sage)
 The power you can access through runes grows more advanced.
 
 ##Heading 2
-XXX
 ##Body text
 Rune	Spells
 ##Body text
@@ -4992,50 +4959,50 @@ QUICK BUILD
 ##Body text
 You can make a psion quickly by following these suggestions. First, make Intelligence your highest ability score, followed by Dexterity or Constitution. Second, choose a background that lends itself to intelligence skills.
 
-##Heading 2
+###Table:Table - Heading
 THE PSION
 
-##Body text
+###Table:Table - Header Row
 Level	Proficiency Bonus	Psi Points	Psi Limit	Features	Psionic Talents
-##Table body
+###Table:Table - Body
 1st	+2	1	1	Psionic Archetype, Psionics	—
-##Table body
+###Table:Table - Body
 2nd	+2	2	1	Psionic Talents	2
-##Table body
+###Table:Table - Body
 3rd	+2	3	2	Secondary Discipline, Psionic Archetype feature	2
-##Table body
+###Table:Table - Body
 4th	+2	4	2	Ability Score Improvement	2
-##Table body
+###Table:Table - Body
 5th	+3	5	3	Psionic Mastery	3
-##Table body
+###Table:Table - Body
 6th	+3	6	3	Psionic Archetype feature	3
-##Table body
+###Table:Table - Body
 7th	+3	7	4	—	4
-##Table body
+###Table:Table - Body
 8th	+3	8	4	Ability Score Improvement	4
-##Table body
+###Table:Table - Body
 9th	+4	9	5	—	5
-##Table body
+###Table:Table - Body
 10th	+4	10	5	Psionic Archetype feature	5
-##Table body
+###Table:Table - Body
 11th	+4	11	6	Innate Psionic Ability (6th level)	5
-##Table body
+###Table:Table - Body
 12th	+4	12	6	Ability Score Improvement	6
-##Table body
+###Table:Table - Body
 13th	+5	13	7	Innate Psionic Ability (7th level)	6
-##Table body
+###Table:Table - Body
 14th	+5	14	7	Psionic Archetype feature	6
-##Table body
+###Table:Table - Body
 15th	+5	15	8	Innate Psionic Ability (8th level)	7
-##Table body
+###Table:Table - Body
 16th	+5	16	8	Ability Score Improvement	7
-##Table body
+###Table:Table - Body
 17th	+6	17	9	Innate Psionic Ability (9th level)	7
-##Table body
+###Table:Table - Body
 18th	+6	18	9	Third Discipline	8
-##Table body
+###Table:Table - Body
 19th	+6	19	10	Ability Score Improvement	8
-##Table body
+###Table:Table - Body
 20th	+6	20	10	Ascension	8
 
 ##Heading 2
@@ -5796,19 +5763,18 @@ ALTERNATE EFFECTS
 Additionally, when you learn the Enhancement psionic discipline you can use your Psionics feature to cast the following spells as per the rules defined in the feature:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Point Cost	Alternate Effects
-##Table body
+###Table:Table - Body
 1	heroism, longstrider, unlocked potential*
-##Table body
+###Table:Table - Body
 2	alter self, enlarge/reduce, lesser restoration
-##Table body
+###Table:Table - Body
 3	haste, protection from energy
-##Table body
+###Table:Table - Body
 4	freedom of movement, stoneskin
-##Table body
+###Table:Table - Body
 5	greater restoration, invested competency*
 
 ### Layout: end frame
@@ -5925,19 +5891,18 @@ ALTERNATE EFFECTS
 Additionally, when you learn the Projection psionic discipline you can use your Psionics feature to cast the following spells as per the rules defined in the feature:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Point Cost	Alternate Effects
-##Table body
+###Table:Table - Body
 1	floating disk, unseen servant
-##Table body
+###Table:Table - Body
 2	mirror image
-##Table body
+###Table:Table - Body
 3	phantom steed
-##Table body
+###Table:Table - Body
 4	arcane eye
-##Table body
+###Table:Table - Body
 5	creation
 
 ### Layout: end frame
@@ -6055,19 +6020,18 @@ ALTERNATE EFFECTS
 Additionally, when you learn the Telekinesis psionic discipline you can use your Psionics feature to cast the following spells as per the rules defined in the feature:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Points Cost	Alternate Effects
-##Table body
+###Table:Table - Body
 1	jump, launch object*, thunderwave
-##Table body
+###Table:Table - Body
 2	fling*, levitate, shatter
-##Table body
+###Table:Table - Body
 3	fly, vortex blast*
-##Table body
+###Table:Table - Body
 4	orbital stones*, resilient sphere
-##Table body
+###Table:Table - Body
 5	telekinesis, wall of force, shockwave*
 
 ### Layout: end frame
@@ -6177,19 +6141,18 @@ ALTERNATE EFFECTS
 Additionally, when you learn the Telepathy psionic discipline you can use your Psionics feature to cast the following spells as per the rules defined in the feature:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Point Cost	Alternate Effects
-##Table body
+###Table:Table - Body
 1	compelled query*, command, frighten*
-##Table body
+###Table:Table - Body
 2	detect thoughts, suggestion
-##Table body
+###Table:Table - Body
 3	delve mind*, fear
-##Table body
+###Table:Table - Body
 4	dominate beast, compulsion, confusion
-##Table body
+###Table:Table - Body
 5	dominate person, modify memory, telepathic bond
 
 ### Layout: end frame
@@ -6302,19 +6265,18 @@ ALTERNATE EFFECTS
 Additionally, when you learn the Transposition psionic discipline you can use your Psionics feature to cast the following spells as per the rules defined in the feature:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Point Cost	Alternate Effects
-##Table body
+###Table:Table - Body
 1	expeditious retreat, flicker*
-##Table body
+###Table:Table - Body
 2	misty step, blur, pass without a trace
-##Table body
+###Table:Table - Body
 3	blink, nondetection, turbulent warp*
-##Table body
+###Table:Table - Body
 4	banishment, dimension cutter*, dimension door
-##Table body
+###Table:Table - Body
 5	flickering strikes*, spatial manipulation*
 
 ### Layout: end frame
@@ -6438,19 +6400,18 @@ ALTERNATE EFFECTS
 Additionally, when you learn the Psychodkinesis psionic discipline you can use your Psionics feature to cast the following spells as per the rules defined in the feature:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Point Cost	Alternate Effects
-##Table body
+###Table:Table - Body
 1	burning hands, lightning tendril*
-##Table body
+###Table:Table - Body
 2	flaming sphere, scorching ray
-##Table body
+###Table:Table - Body
 3	aether lance*, fireball
-##Table body
+###Table:Table - Body
 4	jumping jolt*, wall of fire
-##Table body
+###Table:Table - Body
 5	aether storm*, cone of cold
 
 ### Layout: end frame
@@ -6480,19 +6441,18 @@ If the attack roll is a critical hit or the target fails their saving throw by 5
 The following list of spells replace your Alternate Effects list:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Point Cost	Alternate Effects
-##Table body
+###Table:Table - Body
 1	arctic breath*, entomb*
-##Table body
+###Table:Table - Body
 2	cold snap*
-##Table body
+###Table:Table - Body
 3	flash freeze*, sleet storm
-##Table body
+###Table:Table - Body
 4	ice storm, ice spike*
-##Table body
+###Table:Table - Body
 5	cone of cold
 
 ### Layout: end frame
@@ -6510,19 +6470,18 @@ You can only deal lightning damage with Elemental Blast, but the size of the dam
 The following list of spells replace your Alternate Effects list:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Point Cost	Alternate Effects
-##Table body
+###Table:Table - Body
 1	lightning tendril*, thunder punch*
-##Table body
+###Table:Table - Body
 2	crackle*, lightning charged*
-##Table body
+###Table:Table - Body
 3	electrocute*, lightning bolt
-##Table body
+###Table:Table - Body
 4	jumping jolt*
-##Table body
+###Table:Table - Body
 5	sky burst*
 
 ### Layout: end frame
@@ -6540,19 +6499,18 @@ You can only deal fire damage with Elemental Blast, but the size of the damage d
 The following list of spells replace your Alternate Effects list:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Point Cost	Alternate Effects
-##Table body
+###Table:Table - Body
 1	burning hands, hellish rebuke
-##Table body
+###Table:Table - Body
 2	flaming sphere, scorching ray
-##Table body
+###Table:Table - Body
 3	fireball, fire cyclone*
-##Table body
+###Table:Table - Body
 4	fire shield, wall of fire
-##Table body
+###Table:Table - Body
 5	flame strike
 
 ### Layout: end frame
@@ -6578,7 +6536,6 @@ The powers you wield affect your state of mind, empowering you based on how you 
 
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XXXXX
 ##Body text
 Element	Effect
 ##Body text
@@ -6692,19 +6649,18 @@ Additionally, when you learn the Precognition psionic discipline you can use you
 If a spell can be cast at a higher level, you can spend additional psi points to cast it at a level equal to the psi points spent.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Point Cost	Alternate Effects
-##Table body
+###Table:Table - Body
 1	detect good and evil, future insight*
-##Table body
+###Table:Table - Body
 2	augury†, glimpse the future*
-##Table body
+###Table:Table - Body
 3	clairvoyance
-##Table body
+###Table:Table - Body
 4	death ward†, divination
-##Table body
+###Table:Table - Body
 5	scrying
 ##Body text
 †Death ward has the same effect, but gives a forewarning to a creature allowing them to avoid death when cast in this way.
@@ -6799,19 +6755,18 @@ ALTERNATE EFFECTS
 Additionally, when you learn the Nullification Psionic Discipline you can use your Psionics feature to cast the following spells as per the rules defined in the feature:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Point Cost	Alternate Effects
-##Table body
+###Table:Table - Body
 1	protection from evil and good
-##Table body
+###Table:Table - Body
 2	nullify effect*
-##Table body
+###Table:Table - Body
 3	counterspell, dispel magic, remove curse
-##Table body
+###Table:Table - Body
 4	banishment
-##Table body
+###Table:Table - Body
 5	dispel evil and good
 
 ### Layout: end frame
@@ -6969,7 +6924,6 @@ You gain the ability to impart part of your mind into crystal. You can expend 2 
 PSI CRYSTAL
 
 ##Heading 2
-XXXXX
 ##Body text
 Hit Points 2 (1d4)
 ##Body text
@@ -7341,25 +7295,24 @@ When you create this item, you select any two simple weapons. As a bonus action,
 ##Body text
 As you progress in the Inventor class, you can evolve this weapon further, selecting from the following properties at the following levels:
 
-##Heading 2
-XXXXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Level	Property
-##Table body
+###Table:Table - Body
 5th	The weapon gains a +1 to attack and damage rolls.
-##Table body
+###Table:Table - Body
 7th	The weapon gains an additional simple weapon type to which it can transform.
-##Table body
+###Table:Table - Body
 9th	The weapon gains an additional simple or martial weapon it can transform to.
-##Table body
+###Table:Table - Body
 11th	The weapon adds +1d6 elemental damage to attack rolls. Select from acid, cold, fire, lightning, or thunder when you select this upgrade.
-##Table body
+###Table:Table - Body
 13th	The weapon adds a +2 to attack and damage rolls.
-##Table body
+###Table:Table - Body
 15th	The weapon gains an additional simple or martial weapon to which it can transform.
-##Table body
+###Table:Table - Body
 17th	The weapon adds +3 to attack and damage rolls.
-##Table body
+###Table:Table - Body
 20th	The weapon gains an additional simple or martial weapon to which it can transform., and adds a +4 to attack and damage rolls. As an action, you can change the elemental damage type of the weapon to another option of the 11th-level feature
 
 ##Heading 2
@@ -7859,21 +7812,20 @@ You can select one of the options from the table below or work with your GM to m
 ##Body text
 Example Exosuit Table
 
-##Heading 2
-XXXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Suit Description
-##Table body
+###Table:Table - Body
 1	A complex machine that expands from a small metal ball.
-##Table body
+###Table:Table - Body
 2	A strange symbiote that envelops you, stored in your blood.
-##Table body
+###Table:Table - Body
 3	A crystalline suit that phases into existence from a gem-like pendant.
-##Table body
+###Table:Table - Body
 4	A set of mystical runes that cover your body.
-##Table body
+###Table:Table - Body
 5	A mechanical suit of armor that becomes integrated into your body
-##Table body
+###Table:Table - Body
 6	A sentient set of armor that walks around, equipping itself to you in combat.
 
 ### Layout: end frame
@@ -7980,17 +7932,16 @@ THUNDERING MAGIC
 Additionally at 3rd level, you gain access to an expanded spell list. You learn the following spells at the following levels, and they do not count against the number of bard spells known. The following spells are considered bard spells for you even if they don’t normally appear on the bard list.
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Bard Level	Spells Learned
-##Table body
+###Table:Table - Body
 3rd	thunder punch*, shatter
-##Table body
+###Table:Table - Body
 5th	thunder pulse*
-##Table body
+###Table:Table - Body
 7th	echoing lance*
-##Table body
+###Table:Table - Body
 9th	sonic shriek*
 
 ### Layout: end frame
@@ -8020,21 +7971,20 @@ COLLEGE OF THUNDER QUIRKS
 The following are some optional quirks for a player of the College of Thunder. You can optionally roll or select a quirk that suits your character.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirk
-##Table body
+###Table:Table - Body
 1	All performance checks are better when made at maximum volume.
-##Table body
+###Table:Table - Body
 2	Your fashion taste is memorable.
-##Table body
+###Table:Table - Body
 3	You plunge into things recklessly. Old age is for boring people.
-##Table body
+###Table:Table - Body
 4	You prefer odd instruments that you tinker with endlessly.
-##Table body
+###Table:Table - Body
 5	Everything is a stage if you believe hard enough.
-##Table body
+###Table:Table - Body
 6	You sometimes get very involved in mimed performances.
 
 ### Layout: end frame
@@ -8063,19 +8013,18 @@ You gain domain spells at the cleric levels listed in the Mystery Cult Domain Sp
 ##Body text
 Mystery Cult Domain Spells
 
-##Heading 2
-XXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Cleric Level	Feature
-##Table body
+###Table:Table - Body
 1st	frighten*, terrifying visions*
-##Table body
+###Table:Table - Body
 3rd	augury, detect thoughts
-##Table body
+###Table:Table - Body
 5th	fear, nondetection
-##Table body
+###Table:Table - Body
 7th	compulsion, summon horror*
-##Table body
+###Table:Table - Body
 9th	dominate person, modify memory
 
 ##Heading 2
@@ -8150,21 +8099,20 @@ MYSTERY CULT QUIRKS
 The following are some optional quirks for a player of the Mystery Cult. You can optionally roll or select a quirk that suits your character.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirk
-##Table body
+###Table:Table - Body
 1	You keep secrets about secrets.
-##Table body
+###Table:Table - Body
 2	You perform strange rites at odd hours.
-##Table body
+###Table:Table - Body
 3	You have a bright, cheerful attitude that never wavers no matter the situation.
-##Table body
+###Table:Table - Body
 4	You prefer to keep your face covered with a mask at all times.
-##Table body
+###Table:Table - Body
 5	You give obtuse answers when people ask about your god.
-##Table body
+###Table:Table - Body
 6	You frequently refer to the impending doom of creation.
 
 ### Layout: end frame
@@ -8195,17 +8143,16 @@ CIRCLE SPELLS
 At 2nd level, you learn the message cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of the Nightmares Spells table. Once you gain access to a circle spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Druid Level	Circle Spells
-##Table body
+###Table:Table - Body
 3rd	alter self
-##Table body
+###Table:Table - Body
 5th	mutate*
-##Table body
+###Table:Table - Body
 7th	black tentacles
-##Table body
+###Table:Table - Body
 9th	contact other plane
 
 ### Layout: end frame
@@ -8227,20 +8174,19 @@ Eye Stalk
 When you manifest this mutation, and as a bonus action on your subsequent turns while it lasts, you can target a creature you can see within 60 feet and make a roll on the following table to shoot a random eye ray at them.
 
 ##Heading 2
-XXXXXXXX
-##Table body
+###Table:Table - Body
 1d6	Eye Ray	Effect
-##Table body
+###Table:Table - Body
 1	Fear Ray	The target creature must make a Wisdom saving throw or become frightened of you until the start of your next turn.
-##Table body
+###Table:Table - Body
 2	Telekinetic Ray	The target creature must make a Strength saving throw or be moved 10 feet in a direction of your choice.
-##Table body
+###Table:Table - Body
 3	Slowing Ray	The target must succeed a Wisdom saving throw or be affected by the slow spell until the start of your next turn.
-##Table body
+###Table:Table - Body
 4	Petrification Ray	The target must succeed a Constitution saving throw or be restrained until the start of your next turn.
-##Table body
+###Table:Table - Body
 5	Enervation Ray	The target must succeed a Constitution saving throw or take 1d8 + your Wisdom modifier necrotic damage.
-##Table body
+###Table:Table - Body
 6	Disintegration Ray	The target must succeed a Dexterity saving throw or take 1d10 + your Wisdom modifier force damage.
 
 ### Layout: end frame
@@ -8298,21 +8244,20 @@ CIRCLE OF NIGHTMARES QUIRKS
 The following are some optional quirks for a player of the Circle of Nightmares. You can optionally roll or select a quirk that suits your character.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirk
-##Table body
+###Table:Table - Body
 1	You sometimes wake up with different features.
-##Table body
+###Table:Table - Body
 2	You forgot what you originally looked like long ago.
-##Table body
+###Table:Table - Body
 3	You refer to horrifying things as "cute".
-##Table body
+###Table:Table - Body
 4	You try to speak to animals in deep speech.
-##Table body
+###Table:Table - Body
 5	You refer to going to sleep as "visiting the other side".
-##Table body
+###Table:Table - Body
 6	You refer to eyes watching you. No one else can see these eyes.
 
 ### Layout: end frame
@@ -8349,7 +8294,6 @@ Select one weapon from the below list:
 
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XXXX
 
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
@@ -8477,21 +8421,20 @@ TECH KNIGHT QUIRKS
 The following are some optional quirks for a player of the Tech Knight. You can optionally roll or select a quirk that suits your character.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirk
-##Table body
+###Table:Table - Body
 1	You devote time each day to improving your weapons.
-##Table body
+###Table:Table - Body
 2	You think any problem can be solved with sufficient firepower.
-##Table body
+###Table:Table - Body
 3	You have disdain for simple weapons.
-##Table body
+###Table:Table - Body
 4	You daydream about explosions.
-##Table body
+###Table:Table - Body
 5	You revel in new chances to test your destructive wares.
-##Table body
+###Table:Table - Body
 6	You offer to show everyone the features of each new invention with great joy.
 
 ### Layout: end frame
@@ -8593,21 +8536,20 @@ SOUL BLADE QUIRKS
 The following are some optional quirks for a player of this Way.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirk
-##Table body
+###Table:Table - Body
 1	You carry around a bladeless sword hilt for your Soul Blade’s blade.
-##Table body
+###Table:Table - Body
 2	You occasionally attempt to cut fruit with your Soul Blade.
-##Table body
+###Table:Table - Body
 3	You refer to your actions as the will of the living Ki.
-##Table body
+###Table:Table - Body
 4	You view killing things with your psionic powers as evil, but killing things with your Soul Blade as perfectly okay.
-##Table body
+###Table:Table - Body
 5	You have endless platitudes about temperance and control.
-##Table body
+###Table:Table - Body
 6	You practice obscure martial arts stances every morning.
 
 ### Layout: end frame
@@ -8657,19 +8599,18 @@ OATH SPELLS
 You gain oath Spells at the paladin levels listed.:
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Level	Spells
-##Table body
+###Table:Table - Body
 3rd	detect magic, protection from evil and good
-##Table body
+###Table:Table - Body
 5th	nullify effect*, see invisibility
-##Table body
+###Table:Table - Body
 9th	dispel magic, remove curse
-##Table body
+###Table:Table - Body
 13th	banishment, dimension door
-##Table body
+###Table:Table - Body
 17th	dispel evil and good, hold monster
 
 ### Layout: end frame
@@ -8735,33 +8676,32 @@ OATH OF SANITY QUIRKS
 The following are some optional quirks for a player of this Oath to choose from. These can be either preexisting, signaling their inevitable path toward this Oath, or appear over time due to the influence of their experiences. It is recommended that you have two quirks from this table... This Oath rarely results in individuals that would be considered normal.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d12	Quirk
-##Table body
+###Table:Table - Body
 1	You refer to others as sheltered little lambs. They have no idea.
-##Table body
+###Table:Table - Body
 2	You talk to yourself to help you stay sane in stressful times. The second personality can be reassuring to have around.
-##Table body
+###Table:Table - Body
 3	You compare how bad anything could be to eldritch monsters ending reality.
-##Table body
+###Table:Table - Body
 4	You occasionally bark out "constant vigilance!".
-##Table body
+###Table:Table - Body
 5	You keep a list of people you suspect will betray you.
-##Table body
+###Table:Table - Body
 6	You frequently change your plan to throw off mind readers.
-##Table body
+###Table:Table - Body
 7	You never turn your back on a portal.
-##Table body
+###Table:Table - Body
 8	You are deeply suspicious of anyone casting spells on you, even if they are buffs or heals.
-##Table body
+###Table:Table - Body
 9	You don’t believe in coincidence. It’s always cosmic forces conspiring. You might be right.
-##Table body
+###Table:Table - Body
 10	You have one hundred and one superstitions.
-##Table body
+###Table:Table - Body
 11	You frequently try to explain the danger of perfectly normal activities in great depth.
-##Table body
+###Table:Table - Body
 12	You keep a tin lining on your helmet.
 
 ### Layout: end frame
@@ -8843,19 +8783,18 @@ The spell doesn’t trigger immediately, but triggers on impact. You can shoot t
 If the spell affects a line or cone, you can select the projection of the area from the point. If a spell requires concentration, it uses your concentration as normal.
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Spell Slot Level	Infused Spell Options
-##Table body
+###Table:Table - Body
 1st	burning hands, fog cloud
-##Table body
+###Table:Table - Body
 2nd	darkness, shatter
-##Table body
+###Table:Table - Body
 3rd	fireball, sleet storm
-##Table body
+###Table:Table - Body
 4th	black tentacles, ice storm
-##Table body
+###Table:Table - Body
 5th	cloudkill, acid rain*
 
 ### Layout: end frame
@@ -8885,21 +8824,20 @@ SPECIALIST QUIRKS
 The following are some optional quirks for a player of the Specialist. You can optionally roll or select a quirk that suits your character.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirk
-##Table body
+###Table:Table - Body
 1	You often unnecessarily abbreviate things to abbreviations you then have to explain.
-##Table body
+###Table:Table - Body
 2	Most of your plans involve complicated traps.
-##Table body
+###Table:Table - Body
 3	You never like to use the same plan twice.
-##Table body
+###Table:Table - Body
 4	All problems can be solved with the right arrow.
-##Table body
+###Table:Table - Body
 5	You provide highly specific details about simple things.
-##Table body
+###Table:Table - Body
 6	You always prefer to have the high ground.
 
 ### Layout: end frame
@@ -8936,19 +8874,18 @@ At 3rd level, when you attack a creature that is frightened, you gain advantage 
 Additionally, you learn to imbue your attacks with lingering psionic energy. When you make an attack as part of the attack action, your attack deals an extra 1d4 psychic damage.
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Ranger Level	Spell
-##Table body
+###Table:Table - Body
 3rd	frighten*
-##Table body
+###Table:Table - Body
 5th	detect thoughts
-##Table body
+###Table:Table - Body
 9th	fear
-##Table body
+###Table:Table - Body
 13th	confusion
-##Table body
+###Table:Table - Body
 17th	dominate person
 
 ### Layout: end frame
@@ -9040,21 +8977,20 @@ MIND REAPER QUIRKS
 The following are some optional quirks for a player of the Mind Reaper. You can optionally roll or select a quirk that suits your character.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirk
-##Table body
+###Table:Table - Body
 1	You discuss the taste of thoughts.
-##Table body
+###Table:Table - Body
 2	You enjoy spooking people.
-##Table body
+###Table:Table - Body
 3	You avoid speaking out loud.
-##Table body
+###Table:Table - Body
 4	You have a code of conduct for who gets hunted.
-##Table body
+###Table:Table - Body
 5	Your eyes glow for a few minutes after using psionic powers.
-##Table body
+###Table:Table - Body
 6	You refuse to enter particularly deranged minds. A healthy diet must draw some lines.
 
 ### Layout: end frame
@@ -9185,21 +9121,20 @@ GADGETEER QUIRKS
 The following are some optional quirks for a player of the Gadgeteer You can optionally roll or select a quirk that suits your character.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirk
-##Table body
+###Table:Table - Body
 1	You have no fear of heights.
-##Table body
+###Table:Table - Body
 2	Everything can be improved.
-##Table body
+###Table:Table - Body
 3	Plans are for after you get caught.
-##Table body
+###Table:Table - Body
 4	You use smoke bombs to escape awkward conversations.
-##Table body
+###Table:Table - Body
 5	Walking is for chumps that don’t have grappling hooks.
-##Table body
+###Table:Table - Body
 6	For some reason everywhere you’ve lived too long has exploded. Strange that.
 
 ### Layout: end frame
@@ -9236,19 +9171,18 @@ Variant: Origin Spells
 If you allow Sorcerers to take additional spells based on their subclass, the following are the recommended Origin Spells for the Aether Heart Origin.
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Sorcerer Level	Spell
-##Table body
+###Table:Table - Body
 1st	magic missile
-##Table body
+###Table:Table - Body
 3rd	star dust*
-##Table body
+###Table:Table - Body
 5th	aether lance*
-##Table body
+###Table:Table - Body
 7th	dimension door
-##Table body
+###Table:Table - Body
 9th	wall of force
 
 ### Layout: end frame
@@ -9281,21 +9215,20 @@ AETHER HEART ORIGIN QUIRKS
 The following are some optional quirks for a player of this Origin.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirk
-##Table body
+###Table:Table - Body
 1	Standing in a high magic area feels like a pleasant sunbathing.
-##Table body
+###Table:Table - Body
 2	Your eyes turn pale and glowing for several hours after using magic.
-##Table body
+###Table:Table - Body
 3	You are addicted to using magic.
-##Table body
+###Table:Table - Body
 4	You have difficulty using magic when sad.
-##Table body
+###Table:Table - Body
 5	You sometimes see things as they appear to the weave.
-##Table body
+###Table:Table - Body
 6	You idly weave strands of magic around your hands while waiting.
 
 ### Layout: end frame
@@ -9350,19 +9283,18 @@ Variant: Origin Spells
 If you allow Sorcerers to take additional spells based on their subclass, the following are the recommended Origin Spells for the Planetouched Origin.
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Sorcerer Level	Spell
-##Table body
+###Table:Table - Body
 1st	flicker*
-##Table body
+###Table:Table - Body
 3rd	misty step
-##Table body
+###Table:Table - Body
 5th	blink
-##Table body
+###Table:Table - Body
 7th	dimension door
-##Table body
+###Table:Table - Body
 9th	teleportation circle
 
 ### Layout: end frame
@@ -9409,7 +9341,6 @@ PLANAR COLLISION
 At 18th level you can draw planes together causing them to smash together with devastating results. Select a plane to intersect the one you are on, you can’t select the plane you are currently on. As an action, you can spend 5 sorcery points to cause the planar intersection to occur at a point you can see within 120 feet, causing effects to occur based on the table below in a 30-foot-radius sphere around the chosen point. The effect lasts for a number of rounds equal to your Charisma modifier.
 
 ##Heading 2
-XXXXXXX
 ##Body text
 Plane	Effect
 ##Body text
@@ -9437,21 +9368,20 @@ PLANETOUCHED QUIRKS
 The following are some optional quirks for a player of the Gadgeteer You can optionally roll or select a quirk that suits your character.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirk
-##Table body
+###Table:Table - Body
 1	You occasionally appear in the dreams of others, wandering into the plane of dreams when you sleep.
-##Table body
+###Table:Table - Body
 2	You see fleeting mirage like images of other planes intersecting your own.
-##Table body
+###Table:Table - Body
 3	You have a deep fear of portals.
-##Table body
+###Table:Table - Body
 4	You often toss a pebble through a doorway first before passing through it. Just to check.
-##Table body
+###Table:Table - Body
 5	You are from a lost folded dimension.
-##Table body
+###Table:Table - Body
 6	Your hair and eyes sometimes assume otherworldly aspects as other planes brush unusually close to the material.
 
 ### Layout: end frame
@@ -9480,19 +9410,18 @@ At 1st level, the Ancient Intelligence lets you choose from an expanded list of 
 ##Body text
 The Ancient Intelligence Expanded Spells
 
-##Heading 2
-XXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Spell Level	Ancient Intelligence Spells
-##Table body
+###Table:Table - Body
 1st	identify, seeking projectile*
-##Table body
+###Table:Table - Body
 2nd	animate object*, locate object
-##Table body
+###Table:Table - Body
 3rd	clairvoyance, crushing singularity*
-##Table body
+###Table:Table - Body
 4th	arcane eye, locate creature
-##Table body
+###Table:Table - Body
 5th	arcane hand, commune
 
 ##Heading 2
@@ -9640,21 +9569,20 @@ THE ANCIENT INTELLIGENCE QUIRKS
 The following are some optional quirks for a player who has formed a pact with an Ancient Intelligence You can optionally roll or select a quirk that suits your character.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirk
-##Table body
+###Table:Table - Body
 1	You can solve complicated mathematical problems. You have no idea how.
-##Table body
+###Table:Table - Body
 2	You use highly technical jargon when explaining basic things.
-##Table body
+###Table:Table - Body
 3	Your catalogue and count strange things in great detail for your patron.
-##Table body
+###Table:Table - Body
 4	You can speak a dead language no one seems to recognize.
-##Table body
+###Table:Table - Body
 5	You preform your magic from ornate gadgets that may or may not do anything.
-##Table body
+###Table:Table - Body
 6	You often disassemble and reassemble mechanical objects to learn their workings.
 
 ### Layout: end frame
@@ -9677,7 +9605,6 @@ The following is an expanded Pact of the Chain familiar option for a Warlock of 
 DRONE SWARM
 
 ##Heading 2
-XXXXX
 ##Body text
 Hit Points 13 (3d4 + 6)
 ##Body text
@@ -9732,19 +9659,18 @@ At 1st level, That Which Is Beyond lets you choose from an expanded list of spel
 ##Body text
 That Which Is Beyond Expanded Spells
 
-##Heading 2
-XXXXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Spell Level	That Which is Beyond Spells
-##Table body
+###Table:Table - Body
 1st	terrifying visions*, hideous laughter
-##Table body
+###Table:Table - Body
 2nd	detect thoughts, psychic drain*
-##Table body
+###Table:Table - Body
 3rd	delve mind*, sending
-##Table body
+###Table:Table - Body
 4th	black tentacles, summon horror
-##Table body
+###Table:Table - Body
 5th	dominate person, dream
 
 ##Heading 2
@@ -9832,21 +9758,20 @@ THE THAT WHICH IS BEYOND QUIRKS
 The following are some optional quirks for a player who has formed a pact with That Which Is Beyond. You can optionally roll or select a quirk that suits your character.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirk
-##Table body
+###Table:Table - Body
 1	You reply to your familiar or patron’s telepathic messages out loud.
-##Table body
+###Table:Table - Body
 2	You have a deep and abiding fear of stars.
-##Table body
+###Table:Table - Body
 3	You expect to find eldritch horrors under every rock.
-##Table body
+###Table:Table - Body
 4	You have elaborate theories about the impending end of the material plane.
-##Table body
+###Table:Table - Body
 5	You refer to the gods as "the new ones"
-##Table body
+###Table:Table - Body
 6	Sometimes even you aren’t sure you’re talking to when you’re talking to yourself.
 
 ### Layout: end frame
@@ -9869,7 +9794,6 @@ The following is an expanded Pact of the Chain familiar option for a Warlock of 
 FLICKERING MADNESS
 
 ##Heading 2
-XXXXX
 ##Body text
 Hit Points 1
 ##Body text
@@ -10023,21 +9947,20 @@ ORDER OF CREATION QUIRKS
 The following are some optional quirks for a player that selects Order of Creation. You can optionally roll or select a quirk that suits your character.
 
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirk
-##Table body
+###Table:Table - Body
 1	You look for optimizations of every day processes.
-##Table body
+###Table:Table - Body
 2	You are always sketching out a new blueprint.
-##Table body
+###Table:Table - Body
 3	You can sometimes get lost in the technical details of dangerous situations.
-##Table body
+###Table:Table - Body
 4	You like to test your creations in the field. Stressful situations provide the best data.
-##Table body
+###Table:Table - Body
 5	Everything is a problem to be solved. Logic can solve every problem.
-##Table body
+###Table:Table - Body
 6	You prefer to number your plans. Trying to use the alphabet for your alternate plans limits them.
 
 ### Layout: end frame
@@ -10110,21 +10033,20 @@ You know what the potions people drink are actually made of. Whenever traveling 
 ##Body text
 Ideals
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Ideals
-##Table body
+###Table:Table - Body
 1	Practice. I work to become the greatest at my craft. (Neutral)
-##Table body
+###Table:Table - Body
 2	Discovery. Every combination of reagents deserves to be tried. (Chaotic)
-##Table body
+###Table:Table - Body
 3	Communication. I make sure my patients know exactly what they are about to consume. (Lawful)
-##Table body
+###Table:Table - Body
 4	Fairness. Those divine folks only treat their followers, everyone deserves my services. (Good)
-##Table body
+###Table:Table - Body
 5	Greed. Never cure a disease, it’s more profitable to treat the symptoms. (Evil)
-##Table body
+###Table:Table - Body
 6	Precision. There’s a tonic for any ailment. (Any)
 
 ##Bullet
@@ -10135,21 +10057,20 @@ d6	Ideals
 ##Body text
 Bonds
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Bond
-##Table body
+###Table:Table - Body
 1	A book of passed down recipes was lost or destroyed, I aim to recreate it.
-##Table body
+###Table:Table - Body
 2	A magical malady still plagues my hometown, I adventure in hopes of a cure.
-##Table body
+###Table:Table - Body
 3	I recite or make up rhymes to remember alchemical properties.
-##Table body
+###Table:Table - Body
 4	I was unable to cure a sick child, I will not fail anyone like that again.
-##Table body
+###Table:Table - Body
 5	I come from a long line of apothecaries and my surname has renown or infamy.
-##Table body
+###Table:Table - Body
 6	I have a different scented incense for every occasion and mood.
 
 ##Bullet
@@ -10161,21 +10082,20 @@ d6	Bond
 ##Body text
 Flaws
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Flaw
-##Table body
+###Table:Table - Body
 1	You diagnose the illnesses in those around you... whether they have any or not.
-##Table body
+###Table:Table - Body
 2	You are always on the hunt for the newest alternative medicine remedies.
-##Table body
+###Table:Table - Body
 3	The best way to know if something is poisonous is to put it in your mouth, builds strong immune systems.
-##Table body
+###Table:Table - Body
 4	You don’t trust these “divine” powers in the sky and their healing powers with no in basis proper herblore.
-##Table body
+###Table:Table - Body
 5	An apothecary is paid for their services.
-##Table body
+###Table:Table - Body
 6	Toxins in the blood can be removed by removing the blood. Leeches work well, but in a pinch...
 
 ##Bullet
@@ -10225,21 +10145,20 @@ If you are using crafting, these blue prints can reduce the time and DC for engi
 ##Body text
 Ideals
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Ideals
-##Table body
+###Table:Table - Body
 1	Accomplishment. I love nothing more than the feeling of completing a project. (Neutral)
-##Table body
+###Table:Table - Body
 2	Innovation. Rules and assumptions get in the way of true innovation. (Chaotic)
-##Table body
+###Table:Table - Body
 3	Documentation. All knowledge should be codified so it can be applied to future projects. (Lawful)
-##Table body
+###Table:Table - Body
 4	Equality. Anything I make needs to benefit everyone, from the mightiest king to the lowliest peasant.
-##Table body
+###Table:Table - Body
 5	Glory. Lesser structures and people need to be relocated for my great works. (Evil)
-##Table body
+###Table:Table - Body
 6	Discovery. I travel to see the great works created by others and to inspire my own work. (Any)
 
 ##Bullet
@@ -10250,21 +10169,20 @@ d6	Ideals
 ##Body text
 Bonds
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Bond
-##Table body
+###Table:Table - Body
 1	I found part of an extremely complicated blueprint I could not decipher, I seek the other pages of this design.
-##Table body
+###Table:Table - Body
 2	I carry an antiquated set of tools to remind me of where I came from.
-##Table body
+###Table:Table - Body
 3	One day I want a building or structure named after me.
-##Table body
+###Table:Table - Body
 4	I studied at a prestigious institution.
-##Table body
+###Table:Table - Body
 5	Someone destroyed one of my prized creations and I will have my revenge.
-##Table body
+###Table:Table - Body
 6	I failed an important exam and lost my spot in the academy where I studied.
 
 ##Bullet
@@ -10276,21 +10194,20 @@ d6	Bond
 ##Body text
 Flaws
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Flaw
-##Table body
+###Table:Table - Body
 1	IHAFE (I have acronyms for everything).
-##Table body
+###Table:Table - Body
 2	I will spend hours automating a task that would have taken minutes.
-##Table body
+###Table:Table - Body
 3	I scoff at and belittle what I consider less practical professions.
-##Table body
+###Table:Table - Body
 4	I won’t stop talking about the prestigious institution where I studied.
-##Table body
+###Table:Table - Body
 5	I require invigorating hot bean juice in order to get my best work done.
-##Table body
+###Table:Table - Body
 6	I explain everything in great detail at anyone who happens to be nearby.
 
 ##Bullet
@@ -10329,21 +10246,20 @@ You’ve been around the block, and fixed more than one problem you had no busin
 ##Body text
 Ideals
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Ideals
-##Table body
+###Table:Table - Body
 1	Study. I will someday understand the intricate motions of the world itself. (Neutral)
-##Table body
+###Table:Table - Body
 2	Overhaul. Everything in the world is made up of parts, I can use old parts to make new things. (Chaotic)
-##Table body
+###Table:Table - Body
 3	Maintenance. Everything needs a tune up now and then to keep it functioning as intended. (Lawful)
-##Table body
+###Table:Table - Body
 4	Upgrade. Just because something isn’t broken doesn’t mean it can’t be improved. (Good)
-##Table body
+###Table:Table - Body
 5	Greed. If I wait until a problem worsens, people will pay me more to fix it. (Evil)
-##Table body
+###Table:Table - Body
 6	Synergy. I do my job so others can keep doing theirs, like the gears of a clock. (Any)
 
 ##Bullet
@@ -10354,21 +10270,20 @@ d6	Ideals
 ##Body text
 Bonds
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Bond
-##Table body
+###Table:Table - Body
 1	One of my creations backfired in front of a noble leaving me humiliated and disgraced.
-##Table body
+###Table:Table - Body
 2	A mentor trained me in tinkering to keep me out of trouble.
-##Table body
+###Table:Table - Body
 3	I once accidentally removed the screws... to a lock... to the town jail. The guards still view me as an accomplice.
-##Table body
+###Table:Table - Body
 4	The people of a distant town view me as family, and give me the warmest of welcomes.
-##Table body
+###Table:Table - Body
 5	I made an intricate mechanical creation... that wandered off in the night.
-##Table body
+###Table:Table - Body
 6	A wizard started offering magical solutions to mechanical problems, driving me out of business.
 
 ##Bullet
@@ -10380,21 +10295,20 @@ d6	Bond
 ##Body text
 Flaws
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Flaw
-##Table body
+###Table:Table - Body
 1	I can’t resist taking things apart to see how they work, I can mostly put them back together.
-##Table body
+###Table:Table - Body
 2	Stress testing is mandatory. Even things I don’t own. Even without permission.
-##Table body
+###Table:Table - Body
 3	Aesthetics are irrelevant to function.
-##Table body
+###Table:Table - Body
 4	I solve problems with a depth first methodology, often creating new problems.
-##Table body
+###Table:Table - Body
 5	I can never remember which pocket or pouch the item I am looking for is stored.
-##Table body
+###Table:Table - Body
 6	I’ll start attaching new “features” to anything around me that isn’t nailed down.
 
 ##Bullet
@@ -10468,25 +10382,24 @@ While most constructs are not truly self aware, an Ironwrought is a special case
 ##Body text
 Origin of Sapience
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d8	Origin
-##Table body
+###Table:Table - Body
 1	You existed without self awareness for years before a magical accident rendered you self aware.
-##Table body
+###Table:Table - Body
 2	You were a new experiment, designed for more complicated tasks, and ended up more sapient than expected
-##Table body
+###Table:Table - Body
 3	Left to a mindless task for hundreds of years in a long abandoned location, you slowly developed a sense of self until you abandoned your programmed task.
-##Table body
+###Table:Table - Body
 4	Your sapience is the result of the influence of a supernatural being (celestial, fey, or even fiend) granting you self-awareness for their purposes (or entertainment).
-##Table body
+###Table:Table - Body
 5	You awoke from a long hibernation changed, with greater self awareness. You don’t remember the past.
-##Table body
+###Table:Table - Body
 6	The Inventor that created you intentionally granted you full sapience, trying to build a child, friend, or adventuring companion.
-##Table body
+###Table:Table - Body
 7	You are the consciousness of a mortal imbued into a metal shell, transferred to a Construct to save your life.
-##Table body
+###Table:Table - Body
 8	You are the inventor that created yourself, transferring your consciousness to the Construct for reasons of your own.
 
 ### Layout: end frame
@@ -10502,21 +10415,20 @@ The personality of Ironwrought can vary greatly as their origins can vary greatl
 ##Body text
 Quirks
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirks
-##Table body
+###Table:Table - Body
 1	You provide one detail too many in any conversation.
-##Table body
+###Table:Table - Body
 2	You feel pity for fleshy creatures with their fleeting life spans.
-##Table body
+###Table:Table - Body
 3	You are inherently rational, and can be persuaded of anything with appropriate logic.
-##Table body
+###Table:Table - Body
 4	You have a programmed code of conduct that you will never violate. You may or may not be aware of it.
-##Table body
+###Table:Table - Body
 5	A vestige of a previously set task occasionally surfaces, compelling you to perform a strange action, such as sweeping a floor clean.
-##Table body
+###Table:Table - Body
 6	You have some fragments of the memories of another creature, perhaps a past version of yourself, in your mind.
 
 ### Layout: end frame
@@ -10712,21 +10624,20 @@ Some Farlings become addicted to acquiring memories, and particularly savor thos
 ##Heading 2
 FARLING QUIRKS
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d6	Quirks
-##Table body
+###Table:Table - Body
 1	You ask blunt personal questions of strangers.
-##Table body
+###Table:Table - Body
 2	You go to great lengths to try strange food. Your definition of food is unusually broad.
-##Table body
+###Table:Table - Body
 3	You don’t like to sleep in the same place twice.
-##Table body
+###Table:Table - Body
 4	You place as little value on other’s names as your own, calling them whatever springs into your mind at the moment.
-##Table body
+###Table:Table - Body
 5	You like to occasionally sing. Telepathically.
-##Table body
+###Table:Table - Body
 6	You love to absorb particularly dangerous memories.
 
 ### Layout: end frame
@@ -10899,17 +10810,16 @@ Many of them are created for war, some as bizare experiments, some to restore mi
 ##Heading 2
 AUGMENTED QUIRKS
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d4	Quirks
-##Table body
+###Table:Table - Body
 1	You tinker with yourself and collect spare parts.
-##Table body
+###Table:Table - Body
 2	When your allies fail at things, you suggest what augments may help them succeed in the future.
-##Table body
+###Table:Table - Body
 3	You decorate your augmented parts with guady decorations.
-##Table body
+###Table:Table - Body
 4	You are afraid of getting wet, and terrified of large bodies of water.
 
 ### Layout: end frame
@@ -10982,17 +10892,16 @@ Many of the warped fall to madness, unable to escape the whispering voices and s
 ##Heading 2
 WARPED QUIRKS
 
-##Heading 2
-XXXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d4	Quirks
-##Table body
+###Table:Table - Body
 1	You hide your warped nature under wrappings.
-##Table body
+###Table:Table - Body
 2	You like to show off your enhanced abilities.
-##Table body
+###Table:Table - Body
 3	Your eyes and hair are unnatural colors.
-##Table body
+###Table:Table - Body
 4	You mutter to yourself frequently.
 
 ### Layout: end frame
@@ -11228,8 +11137,7 @@ You have the special gift to invest your soul into magic items. This becomes a n
 ##Body text
 You can have one item infused this way at a time. You can replace two essences of a tier of quality lower than the maximum.
 
-##Heading 2
-XX
+###Table:Table - Heading
 ##Body text
 Character Level	Essence Rarity
 ##Body text
@@ -11238,9 +11146,9 @@ Character Level	Essence Rarity
 5–9	Uncommon
 ##Body text
 10–14	Rare
-##Body text
+###Table:Table - Header Row
 15–19	Very Rare
-##Table body
+###Table:Table - Body
 20	Legendary
 
 ##Bullet
@@ -13003,17 +12911,16 @@ Duration: 10 minutes
 ##Body text
 You give a creature within range a glimpse of their future. Roll a d4 to determine outcome:
 
-##Heading 2
-XXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 d4	Effect
-##Table body
+###Table:Table - Body
 1	The target foresees an action to come. Roll a d20 and record the value. Until the duration of the spell ends, they can replace one of their d20 rolls with the value rolled.
-##Table body
+###Table:Table - Body
 2	The target sees their own death. If they are reduced to zero hit points by an attack or failing a save throw during the duration, they instead evade the attack or pass the saving throw if they are not otherwise incapacitated prior to being reduced to zero.
-##Table body
+###Table:Table - Body
 3	They see a future victory, growing confident. They gain 10 temporary hit points and are immune to the frightened condition for the duration of the spell.
-##Table body
+###Table:Table - Body
 4	The target sees an ambush or surprise, the first time they would be surprised they are not, or the first time an attack would be made against them with advantage, it is instead made with disadvantage.
 
 ##Body text
@@ -15387,7 +15294,6 @@ Hit Points: 225 (18d12 +108) [Max: 324]
 Speed 40 ft., fly 80 ft.
 
 ##Heading 2
-XXXXX
 ##Body text
 STR	DEX	CON	INT	WIS	CHA
 ##Body text
@@ -15553,7 +15459,6 @@ Hit Points 187 (15d12 + 90) [Max: 270]
 Speed 40 ft.
 
 ##Heading 2
-XXXXX
 ##Body text
 STR	DEX	CON	INT	WIS	CHA
 ##Body text
@@ -15695,7 +15600,6 @@ Hit Points 67 (9d8 + 27) [Max: 99]
 Speed 40 ft., climb 40 ft.
 
 ##Heading 2
-XXXXX
 ##Body text
 STR	DEX	CON	INT	WIS	CHA
 ##Body text
@@ -15756,7 +15660,6 @@ Hit Points 22 (5d4 + 10) [Max: 30]
 Speed 0 ft., fly 30 ft. (hover)
 
 ##Heading 2
-XXXXX
 ##Body text
 STR	DEX	CON	INT	WIS	CHA
 ##Body text
@@ -15874,7 +15777,6 @@ Hit Points 75 (10d8 + 30) [Max: 110]
 Speed 30 ft.
 
 ##Heading 2
-XXXXX
 ##Body text
 STR	DEX	CON	INT	WIS	CHA
 ##Body text
@@ -15965,7 +15867,6 @@ Hit Points 95 (10d10 + 40) [Max: 140]
 Speed 30 ft., fly 30 ft. (hover)
 
 ##Heading 2
-XXXXX
 ##Body text
 STR	DEX	CON	INT	WIS	CHA
 ##Body text
@@ -16070,7 +15971,6 @@ Hit Points 45 (6d8 + 18) [Max: 66]
 Speed 30 ft.
 
 ##Heading 2
-XXXXX
 ##Body text
 STR	DEX	CON	INT	WIS	CHA
 ##Body text
@@ -16140,7 +16040,6 @@ Hit Points 30 (4d8 + 12) [Max: 44]
 Speed 30 ft.
 
 ##Heading 2
-XXXXX
 ##Body text
 STR	DEX	CON	INT	WIS	CHA
 ##Body text
@@ -16251,7 +16150,6 @@ Hit Points 115 (11d12 + 44) [Max: 176]
 Speed 30 ft., climb 30 ft., swim 30 ft.
 
 ##Heading 2
-XXXXX
 ##Body text
 STR	DEX	CON	INT	WIS	CHA
 ##Body text
@@ -16408,7 +16306,6 @@ Hit Points 68 (8d8 + 32) [Max: 96]
 Speed 30 ft.
 
 ##Heading 2
-XXXXX
 ##Body text
 STR	DEX	CON	INT	WIS	CHA
 ##Body text
@@ -16465,7 +16362,6 @@ Hit Points 102 (12d8 + 48) [Max: 144]
 Speed 30 ft.
 
 ##Heading 2
-XXXXX
 ##Body text
 STR	DEX	CON	INT	WIS	CHA
 ##Body text
@@ -16553,7 +16449,6 @@ Hit Points 68 (8d8 + 32) [Max: 96]
 Speed 30 ft., fly 40 ft.
 
 ##Heading 2
-XXXXX
 ##Body text
 STR	DEX	CON	INT	WIS	CHA
 ##Body text
@@ -16979,7 +16874,6 @@ Special Reminders:
 QUICK REFERENCE
 
 ##Heading 2
-XX
 ##Body text
 Profession	Related Tool	Related Ability Score
 ##Body text
@@ -17019,7 +16913,6 @@ The prices of this system reference the default prices presented for magic items
 DEFAULT PRICING
 
 ##Heading 2
-XX
 ##Body text
 Rarity	Consumable Price	Price
 ##Body text
@@ -17049,7 +16942,6 @@ In some cases, you may want to make something that is more valuable. While selli
 Here’s some examples of specific modifiers you can add to increase the value of an item:
 
 ##Heading 2
-XXX
 ##Body text
 Modifier	Material	Difficulty	Value Added
 ##Body text
@@ -17064,7 +16956,6 @@ Additionally, you can generally increase the value of an item simply by making i
 Here is a list of example break points of more expensive mundane items using different variations of material cost, DC, and number of checks. These are all simply the iterations of the formula presented in Appendix A.
 
 ##Heading 2
-XXXXX
 
 ##Body text
 Example
@@ -17322,7 +17213,6 @@ SYNTHESIZING ESSENCES
 In addition to harvesting essences from magical monsters fully intact, a more approachable and incremental way is to combine several reagents to get an essence. You have to combine three reagents of the same rarity to gain one essence of that rarity. You can combine reagents in the following ways:
 
 ##Heading 2
-XXX
 ##Body text
 Essence	Component Reagents
 ##Body text
@@ -17352,7 +17242,6 @@ The type of essence produced depends on the source of the spell casting levels a
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-X
 ##Body text
 Caster	Essence Type
 ##Body text
@@ -17503,25 +17392,21 @@ PURCHASING TABLES BY TYPE
 LEATHER & HIDE
 
 ##Heading 2
-XXXXXXXXX
 
 ##Heading 2
 COOKING
 
 ##Heading 2
-XXXXXXXXX
 
 ##Heading 2
 METALS
 
 ##Heading 2
-XXXXXXXXX
 
 ##Heading 2
 WOOD
 
 ##Heading 2
-XXXXXXXXX
 
 ##Heading 2
 MAGICAL MATERIALS
@@ -17530,7 +17415,6 @@ MAGICAL MATERIALS
 MISC
 
 ##Heading 2
-XXXXXXXXX
 
 ##Body text
 Materials
@@ -17542,7 +17426,6 @@ PURCHASING TABLES BY RARITY
 TRIVIAL
 
 ##Heading 2
-XXXXXXXXX
 
 ##Heading 2
 COMMON
@@ -17551,25 +17434,21 @@ COMMON
 UNCOMMON
 
 ##Heading 2
-XXXXXXXXX
 
 ##Heading 2
 RARE
 
 ##Heading 2
-XXXXXXXXX
 
 ##Heading 2
 VERY RARE
 
 ##Heading 2
-XXXXXXXXX
 
 ##Heading 2
 LEGENDARY
 
 ##Heading 2
-XXXXXXXXX
 
 ##Body text
 Harvesting and Looting
@@ -17680,7 +17559,6 @@ EXOTIC HARVESTING
 EXOTIC HARVESTING (CR 0-4)
 
 ##Heading 2
-XXXXXXXXXXXXXXXXXXXXX
 ##Body text
 d100	DC	Dragons/Giants/ Monstrosities	Constructs	Aberrations	Undead	Plants
 ##Body text
@@ -17698,7 +17576,6 @@ d100	DC	Dragons/Giants/ Monstrosities	Constructs	Aberrations	Undead	Plants
 EXOTIC HARVESTING (CR 5-10)
 
 ##Heading 2
-XXXXXXXXXXXXXXXXXXXXX
 ##Body text
 d100	DC	Dragons/Giants/ Monstrosities	Constructs	Aberrations	Undead	Plants
 ##Body text
@@ -17715,8 +17592,7 @@ d100	DC	Dragons/Giants/ Monstrosities	Constructs	Aberrations	Undead	Plants
 ##Heading 2
 EXOTIC HARVESTING (CR 11-16)
 
-##Heading 2
-XXXXXXXXXXXXXXXXXXXXX
+###Table:Table - Heading
 ##Body text
 d100	DC	Dragons/Giants/ Monstrosities	Constructs	Aberrations	Undead	Plants
 ##Body text
@@ -17729,16 +17605,15 @@ d100	DC	Dragons/Giants/ Monstrosities	Constructs	Aberrations	Undead	Plants
 71–80	12	rare poisonous reagent	uncommon arcane essence	rare poisonous reagent	uncommon arcane essence	rare poisonous reagent
 ##Body text
 81–90	12	rare primal essence	rare arcane essence	rare arcane essence	rare divine essence	rare primal essence
-##Body text
+###Table:Table - Header Row
 91–99	12	rare primal essence	rare arcane essence	rare psionic essence	rare arcane essence	rare primal essence
-##Table body
+###Table:Table - Body
 00	12	very rare primal essence	very rare arcane essence	very rare psionic essence	very rare arcane essence	very rare primal essence
 
 ##Heading 2
 EXOTIC HARVESTING (CR 17+)
 
 ##Heading 2
-XXXXXXXXXXXXXXXXXXXXX
 ##Body text
 d100	DC	Dragons/Giants/ Monstrosities	Constructs	Aberrations	Undead	Plants
 ##Body text
@@ -17826,7 +17701,6 @@ EXOTIC REMNANTS
 EXOTIC REMNANTS (CR 0-4)
 
 ##Heading 2
-XXXXXXXXXXXXXXXX
 ##Body text
 d100	Celestials	Fiends	Elementals	Incorporeal Undead
 ##Body text
@@ -17844,7 +17718,6 @@ d100	Celestials	Fiends	Elementals	Incorporeal Undead
 EXOTIC REMNANTS (CR 5-10)
 
 ##Heading 2
-XXXXXXXXXXXXXXXX
 ##Body text
 d100	Celestials	Fiends	Elementals	Incorporeal Undeads
 ##Body text
@@ -17862,7 +17735,6 @@ d100	Celestials	Fiends	Elementals	Incorporeal Undeads
 EXOTIC REMNANTS (CR 11-16)
 
 ##Heading 2
-XXXXXXXXXXXXXXXX
 ##Body text
 d100	Celestials	Fiends	Elementals	Incorporeal Undead
 ##Body text
@@ -17878,7 +17750,6 @@ d100	Celestials	Fiends	Elementals	Incorporeal Undead
 EXOTIC REMNANTS (CR 17+)
 
 ##Heading 2
-XXXXXXXXXXXXXXXX
 ##Body text
 d100	Celestials	Fiends	Elementals	Incorporeal Undead
 ##Body text
@@ -17951,7 +17822,6 @@ INCORPOREAL UNDEAD
 HIDE & MEAT HARVESTING
 
 ##Heading 2
-XXXX
 ##Body text
 Creature Size	Difficulty	Hide	Meat
 ##Body text
@@ -17974,7 +17844,6 @@ Gargantuan	DC 14	15 hides or 3 large carapaces or 9d6 scales	3d8 common meat
 SPECIAL MATERIALS
 
 ##Heading 2
-XXXXXXX
 ##Body text
 Modifier	Minimum CR	Harvesting Difficulty	Additional Requirements	Effect
 ##Body text
@@ -18008,7 +17877,6 @@ INDIVIDUAL TREASURE
 INDIVIDUAL TREASURE (CR 0-4)
 
 ##Heading 2
-XXXXXXX
 ##Body text
 d100	Materials Found	Coinage	Equivalent Gold Value
 ##Body text
@@ -18042,7 +17910,6 @@ d100	Materials Found	Coinage	Equivalent Gold Value
 INDIVIDUAL TREASURE (CR 5-10)
 
 ##Heading 2
-XXXXXXX
 ##Body text
 d100	Materials Found	Coinage	Equivalent Gold Value
 ##Body text
@@ -18070,7 +17937,6 @@ d100	Materials Found	Coinage	Equivalent Gold Value
 INDIVIDUAL TREASURE (CR 11-16)
 
 ##Heading 2
-XXXXXX
 ##Body text
 d100	Materials Found	Equivalent Gold Value
 ##Body text
@@ -18102,7 +17968,6 @@ d100	Materials Found	Equivalent Gold Value
 INDIVIDUAL TREASURE (CR 17+)
 
 ##Heading 2
-XXXXXX
 ##Body text
 d100	Materials Found	Equivalent Gold Value
 ##Body text
@@ -18156,7 +18021,6 @@ TREASURE CRAFTING SUBSTITUTIONS
 TREASURE CRAFTING SUBSTITUTIONS (CR 0-4)
 
 ##Heading 2
-XXXXXX
 ##Body text
 d100	Materials Found	Equivalent Gold Value
 ##Body text
@@ -18173,16 +18037,15 @@ d100	Materials Found	Equivalent Gold Value
 71–80	1 uncommon magical ink, 1 uncommon parchment, large carapace, 1 uncommon supplies	120 gp
 ##Body text
 81–90 2	fancy parts, 2 mithril ingots, 1 rare poisonous reagent, 1 rare reactive reagent	140 gp
-##Body text
+###Table:Table - Header Row
 91–99	1 esoteric part, 1 adamantine ingot, 1 rare curative reagent	200 gp
-##Table body
+###Table:Table - Body
 00	1 uncommon arcane essence, 1 common divine essence, 1 common primal essence	235 gp
 
 ##Heading 2
 TREASURE CRAFTING SUBSTITUTIONS (CR 5-10)
 
 ##Heading 2
-XXXXXX
 ##Body text
 d100	Materials Found	Equivalent Gold Value
 ##Body text
@@ -18199,9 +18062,9 @@ d100	Materials Found	Equivalent Gold Value
 71–80	1 uncommon arcane essence, 1 uncommone primal essence, 2 rare curative reagents, 2 rare branches, 1 adamantine ingot	600 gp
 ##Body text
 81–90	3 esoteric part, 3 rare curative reagent, 3 rare poisonous reagents, 3 rare reactive reagents	680 gp
-##Body text
+###Table:Table - Header Row
 91–99	1 tough leather, 1 uncomon arcane essence, 1 uncommon divine essence, 1 uncommon primal essence	950 gp
-##Table body
+###Table:Table - Body
 00	5c1 rare arcane essence, 1 uncommon divine essence,
 ##Body text
 1 uncommon primal essence	1,000 gp
@@ -18210,7 +18073,6 @@ d100	Materials Found	Equivalent Gold Value
 TREASURE CRAFTING SUBSTITUTIONS (CR 11-16)
 
 ##Heading 2
-XXXXXX
 ##Body text
 d100	Materials Found	Equivalent Gold Value
 ##Body text
@@ -18227,16 +18089,15 @@ d100	Materials Found	Equivalent Gold Value
 71–80	1 very rare divine essence, 2 rare arcane essences, 2 very rare curative reagentS	12,400 gp
 ##Body text
 81–90	1 very rare primal essence, 2 rare divine essences, 2 very rare poisonous reagentS	12,400 gp
-##Body text
+###Table:Table - Header Row
 91–99	1 very rare arcane essence, 2 rare primal essences, 2 very rare reactive reagentS	12,400 gp
-##Table body
+###Table:Table - Body
 00	1 very rare arcane essence, 1 very rare divine essence, 1 very rare primal essence.	21,000 gp
 
 ##Heading 2
 TREASURE CRAFTING SUBSTITUTIONS (CR 17+)
 
 ##Heading 2
-XXXXXX
 ##Body text
 d100	Materials Found	Equivalent Gold Value
 ##Body text
@@ -18261,9 +18122,9 @@ legendary poisonous reagent, 2 very rare primal essences	29,000 gp
 2 legendary poisonous reagents	49,000 gp
 ##Body text
 91–99	5clegendary arcane essence, 2 very rare divine essences,
-##Body text
+###Table:Table - Header Row
 2 legendary curative reagents	49,000 gp
-##Table body
+###Table:Table - Body
 00	5clegendary arcane essence, legendary primal essence,
 ##Body text
 legendary divine essence	75,000 gp
@@ -18341,7 +18202,6 @@ GATHER REAGENTS
 REAGENTS
 
 ##Heading 2
-XXXXXXXXXXXXXXXX
 ##Body text
 d100	DC	Forests	Deserts	Grasslands	Marsh	Mountains
 ##Body text
@@ -18453,7 +18313,6 @@ essence
 REAGENTS
 
 ##Heading 2
-XXXXXXXXXXXXXXXX
 ##Body text
 d100	DC	Caves	Underground	Jungles	Shore	Tundra
 ##Body text
@@ -18559,7 +18418,6 @@ essence
 REAGENTS
 
 ##Heading 2
-XXXXXXXXXXXXXXXXXXXX
 ##Body text
 curative reagent	3ccommon
 ##Body text
@@ -18691,7 +18549,6 @@ SEARCH FOR MATERIALS
 MATERIALS
 
 ##Heading 2
-XXXXXXXXXXXXXXXX
 ##Body text
 d100	DC	Forests	Deserts	Grasslands	Marsh	Mountains
 ##Body text
@@ -18711,7 +18568,6 @@ d100	DC	Forests	Deserts	Grasslands	Marsh	Mountains
 MATERIALS
 
 ##Heading 2
-XXXXXXXXXXXXXXXX
 ##Body text
 d100	DC	Caves	Underground	Jungles	Shore	Tundra
 ##Body text
@@ -18765,7 +18621,6 @@ HUNT GAME
 GAME
 
 ##Heading 2
-XXXXXXXXXXXXXXXX
 ##Body text
 d100	DC	Forests	Deserts	Grasslands	Marsh	Mountains
 ##Body text
@@ -18793,7 +18648,6 @@ d100	DC	Forests	Deserts	Grasslands	Marsh	Mountains
 GAME
 
 ##Heading 2
-XXXXXXXXXXXXXXXX
 ##Body text
 d100	DC	Caves	Underground	Graveyards	Shore	Tundra
 ##Body text
@@ -19146,7 +19000,6 @@ CONCOCTIONS
 CONCOCTIONS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 common poisonous reagent
 ##Body text
@@ -19193,7 +19046,6 @@ EXPLOSIVES
 EXPLOSIVES
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 common reactive reagent
 ##Body text
@@ -19220,7 +19072,6 @@ MAGICAL DUST
 MAGICAL DUST
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 common arcane essence
 ##Body text
@@ -19245,7 +19096,6 @@ MAGICAL INK
 MAGICAL INK
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 glass vial	2 hours	1	DC 10	common	15 gp
 ##Body text
@@ -19264,7 +19114,6 @@ OILS
 OILS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 glass vial	2 hours	1	DC 13	common	40 gp
 ##Body text
@@ -19293,7 +19142,6 @@ MISCELLANEOUS
 MISCELLANEOUS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 2 uncommon curative reagents
 ##Body text
@@ -19499,7 +19347,6 @@ Potion, common
 You regain 2d4 + 2 Hit Points when you drink this potion. The potion’s red liquid glimmers when agitated.
 
 ##Heading 2
-XX
 ##Body text
 Quality	Rarity	Hit Points Restored
 ##Body text
@@ -19740,7 +19587,6 @@ Concoction, common
 A small flask of burbling acid, a strange hissing green viscous liquid. It deals 4d4 acid damage when poured on an object. Can be used as a simple ranged weapon with the thrown (20/60) property, dealing 4d4 acid damage on hit. You do not add your modifier to the damage roll.
 
 ##Heading 2
-XX
 ##Body text
 Quality	Rarity	Acid Damage
 ##Body text
@@ -19770,7 +19616,6 @@ Concoction, common
 A small flask of volatile orange liquid. It deals 2d10 fire damage when poured on an object. Can be used as a simple ranged weapon with the thrown (20/60) property, dealing 2d10 fire damage on hit. You do not add your modifier to the damage roll.
 
 ##Heading 2
-XX
 ##Body text
 Quality	Rarity	Fire Damage
 ##Body text
@@ -19936,7 +19781,6 @@ Explosive, common/uncommon/rare
 A bundled explosive alchemical preparation. It can be detonated by dealing 1 fire or lightning damage to it. As an action, a packet of this explosive can be accurately thrown 20 feet, but will not detonate on impact (usually). When it detonates, all creatures within 10 feet (for common) of the target point must make a Dexterity saving throw with a DC equal to the crafter’s Alchemy DC. On failure, they take 1d8 fire + 1d8 thunder damage, or half as much on a success. Creatures in range of more than one explosive take damage only from the highest damage effect.
 
 ##Heading 2
-XX
 ##Body text
 Name	Radius	Damage
 ##Body text
@@ -20042,7 +19886,6 @@ ALCHEMY MODIFIERS
 The following are alchemical modifiers that can be applied to a potion. All alchemical modifiers require approval from the GM if the modifier will work with a given potion or creation.
 
 ##Heading 2
-XXXXXXX
 ##Body text
 Modifier	Difficulty Modifier	Effect
 ##Body text
@@ -20065,7 +19908,6 @@ ADDITIONAL MATERIALS
 You can simply load more reagents into any potion, increasing its potency in different ways, though it increases the difficulty. You can make a “custom potion” simply by using these modifiers with no base potion. When you do so, the base DC is 8.
 
 ##Heading 2
-XXXXX
 ##Body text
 Additional Reagent	Difficulty Modifier	Effect
 ##Body text
@@ -20826,7 +20668,6 @@ BLACKSMITHING MATERIALS
 Metals
 
 ##Heading 2
-XX
 ##Body text
 Materials	Rarity	Price
 ##Body text
@@ -20941,7 +20782,6 @@ WEAPONS
 SIMPLE WEAPONS
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 short haft	2 hours	1	DC 11	Common	5 gp
 ##Body text
@@ -20959,7 +20799,6 @@ XXXXXXXX
 MARTIAL WEAPONS
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 short haft	4 hours	2	DC 12	Common	10 gp
 ##Body text
@@ -20990,7 +20829,6 @@ ARMOR
 ARMOR
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 armor padding	14 hours	7	DC 13	common	75 gp
 ##Body text
@@ -21011,7 +20849,6 @@ DEFENSIVE ITEMS
 DEFENSIVE ITEMS
 
 ##Heading 2
-XXXXXXXX
 
 ##Body text
 Shields and bracers can’t benefit from armor crafting modifications.
@@ -21023,7 +20860,6 @@ MISCELLANEOUS GEAR
 MISCELLANEOUS GEAR
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 lock
 ##Body text
@@ -21039,7 +20875,6 @@ TOOLS
 TOOLS
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 2 parts	8 hours	4	DC 11	common	20 gp
 ##Body text
@@ -21052,7 +20887,6 @@ COMPONENTS AND MATERIALS
 COMPONENTS AND MATERIALS
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 adamant ingot requires magical forge	2 hours	1	DC 15	uncommon	60 gp
 ##Body text
@@ -21074,7 +20908,6 @@ FIREARMS*
 FIREARMS*
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 packet of blasting powder	4 hours	2	DC 15	uncommon	80 gp
 ##Body text
@@ -21310,7 +21143,6 @@ To create a weapon go through five steps to determine the final damage and prope
 STEP 1: SELECT ONE OF...
 
 ##Heading 2
-XXXX
 ##Body text
 Property	Base Damage Die	Crafting Modifier	Material Modifier	Notes
 ##Body text
@@ -21322,7 +21154,6 @@ Martial	d8	15 Base DC	3 ingots	Becomes a martial weapon
 STEP 2: SELECT ONE OF...
 
 ##Heading 2
-XXXX
 ##Body text
 Property	Weapon Modifier	Crafting Modifier	Material Modifier	Notes
 ##Body text
@@ -21338,7 +21169,6 @@ Two-Handed	+d2	—	2x ingots	—
 STEP 3: SELECT ALL THAT APPLY...
 
 ##Heading 2
-XXXX
 ##Body text
 Property	Weapon Modifier	Crafting Modifier	Material Modifier	Notes
 ##Body text
@@ -21362,7 +21192,6 @@ You can divide your damage die into smaller dice that equal the same total. For 
 STEP 5: SELECT DAMAGE TYPE...
 
 ##Heading 2
-X
 ##Body text
 Type	Effect
 ##Body text
@@ -21402,7 +21231,6 @@ EXAMPLE TEMPLATE WEAPONS
 SIMPLE WEAPONS
 
 ##Heading 2
-XXXX
 ##Body text
 Weapon	Cost	Damage	Weight	Properties
 ##Body text
@@ -21420,7 +21248,6 @@ Sturdy 10-Foot Pole (B)	1 sp	1d6 bludgeoning	5 lbs.	Reach, Two-handed
 MARTIAL WEAPONS
 
 ##Heading 2
-XXXX
 ##Body text
 Weapon	Cost	Damage	Weight	Properties
 ##Body text
@@ -21478,7 +21305,6 @@ EXAMPLE TEMPLATE WEAPON CRAFTING
 SIMPLE WEAPONS
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 long haft	2 hours	1	DC 15	Common	13 gp
 ##Body text
@@ -21490,7 +21316,6 @@ Pole (B)	1 extra long haft	0 hours	0	DC 0	Common	1 sp
 MARTIAL WEAPONS
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 long haft	4 hours	2	DC 21	Common	450 gp
 ##Body text
@@ -21546,7 +21371,6 @@ MODIFIERS
 MATERIAL MODIFIERS
 
 ##Heading 2
-XXXXXXXXX
 ##Body text
 Metal	Difficulty Modifier	Weapon Effect	Armor Effect
 ##Body text
@@ -21568,7 +21392,6 @@ Mithral	+5	A weapon with the heavy property forged from it loses the heavy prope
 CRAFTING MODIFIERS
 
 ##Heading 2
-XXXXXXXXX
 ##Body text
 Modifier	Difficulty Modifier	Weapon Effect	Armor Effect
 ##Body text
@@ -21603,7 +21426,6 @@ Weighted (Dwarven)	+4	A weapon with the light property forged from it loses the 
 SUPPLEMENTAL MODIFIERS
 
 ##Heading 2
-XXXXXXXXX
 ##Body text
 Modifier	Materials Needed	Difficulty Modifier	Weapon Effect	Armor Effect
 ##Body text
@@ -21841,7 +21663,6 @@ PURCHASING MATERIALS
 Due to the rules on ingredient freshness, typically ingredients cannot be purchased in a way that is relevant for cooking recipes. You can purchase Supplies (of any type) that can be used to make Basic Meals.
 
 ##Heading 2
-X
 ##Body text
 Rarity	Material Price
 ##Body text
@@ -21858,7 +21679,6 @@ HARVESTING INGREDIENTS
 Unlike other things, you can harvest from monsters, as there’s little chance of failure in harvesting. There’s generally more to harvest than meaningfully used. You can consume Monstrosity, Dragon, Beast and Plant Type creatures for magical benefits. However, your GM may allow other creature types as special delicacies at their discretion.
 
 ##Heading 2
-X
 ##Body text
 Monster CR	Gathered Ingredients
 ##Body text
@@ -21885,7 +21705,6 @@ FEASTS
 FEASTS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 common supplies	1 hour	1	DC 8	common	3 gp
 ##Body text
@@ -21980,7 +21799,6 @@ SNACKS
 SNACKS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 2 uncommon reactive reagents
 ##Body text
@@ -22011,7 +21829,6 @@ RATIONS
 RATIONS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 uncommon supplies
 ##Body text
@@ -22151,7 +21968,6 @@ Food (feast), rare
 Up to 5 creatures can consume this feast within an hour of it being prepared. After consuming this hearty meal, you become satiated for the next 24 hours. The magical properties of the meal confer the following special benefits:
 
 ##Heading 2
-XX
 ##Body text
 Element	Benefit
 ##Body text
@@ -22235,7 +22051,6 @@ Up to 5 creatures can consume this feast within an hour of it being prepared. Af
 You can add +1/+2/+3/+4 to ability checks and saving throws of the prepared creatures highest stat (if multiple stats are tied, the cook chooses which when preparing the meal). Alternatively, the cook can bring forth exotic properties of the creature, conferring one trait of the cooked animal to those that consume it as per the following table (this replaces the benefit to ability checks and saves):
 
 ##Heading 2
-XX
 ##Body text
 Minimum Rarity	Creature Boon
 ##Body text
@@ -23172,7 +22987,6 @@ RARE WONDROUS ITEMS
 VERY RARE WONDROUS ITEMS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 scroll of plane shift
 ##Body text
@@ -23316,7 +23130,6 @@ XXXXXXXXXX
 LEGENDARY WONDROUS ITEMS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 scroll of enhance ability
 ##Body text
@@ -23424,7 +23237,6 @@ ENCHANTING CRAFTING TABLES
 PSIONIC ITEMS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 common psion essence	4 hours	2	DC 13	common	70 gp
 ##Body text
@@ -24127,7 +23939,6 @@ ENCHANTING CRAFTING TABLES
 MAGICAL NECKLACES
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 scroll of nondetection	8 hours	4	DC 14	uncommon	350 gp
 ##Body text
@@ -24222,7 +24033,6 @@ ENCHANTING CRAFTING TABLES
 STAVES
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 scroll of conjure animals
 ##Body text
@@ -24348,7 +24158,6 @@ ENCHANTING CRAFTING TABLES
 RODS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 scroll of gravity surge(B)
 ##Body text
@@ -24458,7 +24267,6 @@ ENCHANTING CRAFTING TABLES
 MAGICAL MANUALS & TOMES
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 scroll of awaken
 ##Body text
@@ -24511,7 +24319,6 @@ ENCHANTING CRAFTING TABLES
 IOUN STONES
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 scroll of enhance ability
 ##Body text
@@ -24605,7 +24412,6 @@ ENCHANTING CRAFTING TABLES
 INFUSED GEMS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 common arcane essence	4 hours	2	DC 14	Common	95 gp
 ##Body text
@@ -24892,20 +24698,19 @@ Curse. While attuned to the crystal, you have vivid dreams of lives that are not
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XXXXXXXXXX
-##Table body
+###Table:Table - Body
 1d6	Essence Color	Attribute
-##Table body
+###Table:Table - Body
 1	Deep Crimson	Strength
-##Table body
+###Table:Table - Body
 2	Forest Green	Dexterity
-##Table body
+###Table:Table - Body
 3	Amber Orange	Constitution
-##Table body
+###Table:Table - Body
 4	Honey Yellow	Wisdom
-##Table body
+###Table:Table - Body
 5	Azure Blue	Intelligence
-##Table body
+###Table:Table - Body
 6	Rich Purple	Charisma
 
 ##Bullet
@@ -25158,7 +24963,6 @@ An ambitious GM can replace any effect rolled with a new effect (either positive
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XXXXXXXXXXXXXXXX
 
 ##Bullet
  • Table: Quantum Chaos Box Contents
@@ -25260,7 +25064,6 @@ The ink used to create scrolls must be a special formulation that allows it to c
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 
 ### Layout: end frame
 
@@ -25330,7 +25133,6 @@ The type of Essence is determined by the spell list the spell comes from; if it 
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 ##Body text
 Essence Type	Spell List
 ##Body text
@@ -25351,7 +25153,6 @@ Scrollscribing
 SCROLLSCRIBING CRAFTING TABLE
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 common parchment	2 hours	1	DC 12	Common	20 gp
 ##Body text
@@ -25489,7 +25290,6 @@ Like with many materials, one popular method of acquisition is to simply spend g
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 
 ### Layout: end frame
 
@@ -25568,7 +25368,6 @@ LESSER WAND ESSENCE TYPE
 The type of Essence is determined by the spell list the spell comes from; if it is on multiple spell lists, it is determined by how you have access to the spell. If you have access to the spell via multiple lists or the written form of the spell, you can pick which Essence to use for spells that have multiple options.
 
 ##Heading 2
-XX
 ##Body text
 Essence Type	Spell List
 ##Body text
@@ -25595,7 +25394,6 @@ LESSER WANDS
 LESSER WANDS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 common branch	2 hours	1	DC 12	common	30 gp
 ##Body text
@@ -26040,7 +25838,6 @@ ARMOR
 ARMOR
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 2 leather (any)
 ##Body text
@@ -26077,7 +25874,6 @@ WEAPONS
 WEAPONS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 3 metal scraps	6 hours	3	DC 14	common	40 gp
 
@@ -26391,7 +26187,6 @@ TINKERING CRAFTING TABLES
 ADVENTURING GEAR
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 50 feet rope
 ##Body text
@@ -26441,7 +26236,6 @@ XXXXXXXXXX
 MISCELLANEOUS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 2 parts
 ##Body text
@@ -26451,7 +26245,6 @@ XXXXXXXXXX
 TRAPS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 2 parts	2 hours	1	DC 13	common	10 gp
 ##Body text
@@ -26463,7 +26256,6 @@ XXXXXXXXXX
 TOOLS & INSTRUMENTS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 2 fancy parts	8 hours	4	DC 14	common	50 gp
 ##Body text
@@ -26505,7 +26297,6 @@ XXXXXXXXXX
 WEAPONS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 4 metal scraps
 ##Body text
@@ -26543,7 +26334,6 @@ XXXXXXXXXX
 ADVANCED AMMUNITION
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 parts	2 hours	1	DC 14	common	13 gp
 ##Body text
@@ -26583,7 +26373,6 @@ or
 MECHANICAL PROSTHETICS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 parts	4 hours	2	DC 10	common	5 gp
 ##Body text
@@ -26625,7 +26414,6 @@ XXXXXXXXXX
 VEHICLES
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 10 parts
 ##Body text
@@ -27183,7 +26971,6 @@ WOODCARVING CRAFTING TABLES
 WEAPONS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 leather scraps
 ##Body text
@@ -27201,7 +26988,6 @@ XXXXXXXXXX
 ARMOR
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 metal scraps
 ##Body text
@@ -27211,7 +26997,6 @@ XXXXXXXXXX
 MUSICAL INSTRUMENTS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 4 lengths of string	16 hours (2 days)	8	DC 12	common	35 gp
 ##Body text
@@ -27239,7 +27024,6 @@ XXXXXXXXXX
 AMMUNITION
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 metal scraps
 ##Body text
@@ -27259,7 +27043,6 @@ XXXXXXXXXX
 MISCELLANEOUS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 parts
 ##Body text
@@ -27269,7 +27052,6 @@ XXXXXXXXXX
 CARVED BRANCHES
 
 ##Heading 2
-XXXXXXXXXX
 
 ##Bullet
  • The material used can’t be the result of carving a branch of a lower quality.
@@ -27278,7 +27060,6 @@ XXXXXXXXXX
 EXOTIC WOOD
 
 ##Heading 2
-XXXXX
 ##Body text
 Modifier	Effect	Difficulty Modifier
 ##Body text
@@ -27514,7 +27295,6 @@ Placing a rune on a magical item is exceedingly difficult. Magical items resist 
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 ##Body text
 Item Rarity	Rune Difficulty Modifier
 ##Body text
@@ -27543,7 +27323,6 @@ ANCIENT TRADITION
 ANCIENT TRADITION
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 common magical ink	4 hours	2	DC 12	common	70 gp
 ##Body text
@@ -27597,7 +27376,6 @@ XXXXXXXXXX
 ACADEMIC TRADITION
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 1 uncommon arcane essence
 ##Body text
@@ -28204,7 +27982,6 @@ MATERIALS
 BULK MATERIALS TABLE
 
 ##Heading 2
-X
 ##Body text
 Material	Price
 ##Body text
@@ -28276,7 +28053,6 @@ The number of laborers required is based on the scale of the project, as per the
 
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-X
 ##Body text
 Project Scale	Laborers Needed
 ##Body text
@@ -28318,7 +28094,6 @@ SIEGE WEAPONS
 SIEGE WEAPONS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 4 quality branches
 ##Body text
@@ -28373,7 +28148,6 @@ FORTIFICATIONS
 FORTIFICATIONS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 (per 10 ft)	4c1 units of stone
 ##Body text
@@ -28404,7 +28178,6 @@ BRIDGES
 BRIDGES
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 2 parts	4 hours	2	DC 14	Common	25 gp
 ##Body text
@@ -28439,7 +28212,6 @@ BUILDINGS
 BUILDINGS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 (10 ft x 10 ft)	4c1 unit of lumber
 ##Body text
@@ -28514,7 +28286,6 @@ VEHICLES
 VEHICLES
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 2 quality branch
 ##Body text
@@ -28557,7 +28328,6 @@ SHIPS
 SHIPS
 
 ##Heading 2
-XXXXXXXXXX
 ##Body text
 (Gargantuan)	4c100 units of lumber
 ##Body text
@@ -28744,7 +28514,6 @@ Weaving Modifier = your Weaver's tools proficiency bonus + your Dexterity modifi
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 
 ### Layout: end frame
 
@@ -28752,7 +28521,6 @@ XX
 WEAVING
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 Cloth	4c1 raw cotton
 ##Body text
@@ -28774,7 +28542,6 @@ Cobbling Modifier = your Cobbler's tools proficiency bonus + your Dexterity modi
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 
 ### Layout: end frame
 
@@ -28782,7 +28549,6 @@ XX
 COBBLING
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 buckle	1	DC 9	2 gp
 ##Body text
@@ -28806,7 +28572,6 @@ Masonry Modifier = your Mason's Tools proficiency bonus + your Strength modifier
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 
 ### Layout: end frame
 
@@ -28814,7 +28579,6 @@ XX
 MASONRY
 
 ##Heading 2
-XXXXXXXX
 
 ##Heading 2
 GLASSBLOWING
@@ -28828,7 +28592,6 @@ Glassblowing Modifier = your Glassblower's Tools proficiency bonus + your Dexter
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 
 ### Layout: end frame
 
@@ -28836,7 +28599,6 @@ XX
 GLASSBLOWING
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 (Lenses)	1 unformed glass	3	DC 11	10 gp
 ##Body text
@@ -28854,7 +28616,6 @@ Painting Modifier = your Painter's supplies proficiency bonus + your Wisdom modi
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 
 ### Layout: end frame
 
@@ -28862,7 +28623,6 @@ XX
 PAINTING
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 canvas	4	DC 8	4 sp
 ##Body text
@@ -28880,7 +28640,6 @@ Brewing Modifier = your Brewer's Supplies proficiency bonus + your Wisdom modifi
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 
 ### Layout: end frame
 
@@ -28888,7 +28647,6 @@ XX
 BREWING
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 water
 ##Body text
@@ -28940,7 +28698,6 @@ Jewelcrafting Modifier = your Jeweler's Tools proficiency bonus + your Dexterity
 CUT JEWELS
 
 ##Heading 2
-XXXXXXXX
 
 ##Bullet
  • (Critical) If a check is failed by 5 or more, the gem shatters and the material component is lost.
@@ -28951,7 +28708,6 @@ XXXXXXXX
 JEWELRY
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 gem worth at least 50 gp	6	DC 16	250 gp
 ##Body text
@@ -28961,7 +28717,6 @@ XXXXXXXX
 MISC
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 metal scraps	2	DC 12	10 gp
 ##Body text
@@ -28979,7 +28734,6 @@ Carpentry Modifier = your Carpenter's tools proficiency bonus + your Dexterity m
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 
 ### Layout: end frame
 
@@ -28987,7 +28741,6 @@ XX
 CARPENTRY
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 parts	2	DC 8	1 gp
 ##Body text
@@ -29007,7 +28760,6 @@ Tailor Modifier = your Weaver's tools proficiency bonus + your Dexterity modifie
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 
 ### Layout: end frame
 
@@ -29015,7 +28767,6 @@ XX
 TAILORING
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 1 spool of thread	2	DC 8	2 sp
 ##Body text
@@ -29090,7 +28841,6 @@ This book is not a book about magic items, and the subject of how to make an ite
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XXX
 ##Body text
 Rarity	Difficulty	Time	Estimated Labor Cost
 ##Body text
@@ -29118,7 +28868,6 @@ The next step is to add appropriate reagents of that the appropriate crafting br
 DEFAULT PRICING
 
 ##Heading 2
-XX
 ##Body text
 Rarity	Consumable Price	Price
 ##Body text
@@ -29145,7 +28894,7 @@ The most complicated (and most common) use case is Enchanting. Not only does enc
 If it doesn't, find appropriate allegories to what the item does. The obvious example, is a +1 weapon. It doesn't cast a spell, but it does have the same effect as a magic weapon spell, so it can use that scroll. A bag of holding is more complicated, but you can follow the same logic-the secret chest spell doesn't exactly overlap, but it shares some properties... it's close enough for these purposes.
 ### Layout: end frame
 
-##Heading 2
+###Table:Table - Heading
 LABOR COST TABLE
 
 ##Body text
@@ -29158,67 +28907,67 @@ The following is the labor cost table that drives the math of the system. You do
 ##Bullet
  • Skill Level: This means nothing. It is just a narrative key.
 
-##Body text
+###Table:Table - Header Row
 Difficulty	Skill Level	Labor	Risk Multiplier
-##Table body
+###Table:Table - Body
 1	Novice	1 sp	1
-##Table body
+###Table:Table - Body
 2	Novice	1 sp	1
-##Table body
+###Table:Table - Body
 3	Novice	1 sp	1
-##Table body
+###Table:Table - Body
 4	Novice	1 sp	1
-##Table body
+###Table:Table - Body
 5	Novice	1 sp	1
-##Table body
+###Table:Table - Body
 6	Novice	1 sp	1
-##Table body
+###Table:Table - Body
 7	Novice	1 sp	1
-##Table body
+###Table:Table - Body
 8	Novice	1 sp	1
-##Table body
+###Table:Table - Body
 9	Apprentice	1 gp	1
-##Table body
+###Table:Table - Body
 9	Apprentice	2 gp	1
-##Table body
+###Table:Table - Body
 11	Journeyman	3 gp	1.05
-##Table body
+###Table:Table - Body
 12	Journeyman	4 gp	1.05
-##Table body
+###Table:Table - Body
 13	Journeyman	7 gp	1.05
-##Table body
+###Table:Table - Body
 14	Journeyman	11 gp	1.05
-##Table body
+###Table:Table - Body
 15	Master	18 gp	1.05
-##Table body
+###Table:Table - Body
 16	Master	29 gp	1.1
-##Table body
+###Table:Table - Body
 17	Master	47 gp	1.1
-##Table body
+###Table:Table - Body
 18	Master	76 gp	1.1
-##Table body
+###Table:Table - Body
 19	Master	123 gp	1.1
-##Table body
+###Table:Table - Body
 20	Grandmaster	199 gp	1.1
-##Table body
+###Table:Table - Body
 21	Grandmaster	322 gp	1.2
-##Table body
+###Table:Table - Body
 22	Grandmaster	521 gp	1.2
-##Table body
+###Table:Table - Body
 23	Grandmaster	843 gp	1.2
-##Table body
+###Table:Table - Body
 24	Grandmaster	1,364 gp	1.2
-##Table body
+###Table:Table - Body
 25	Grandmaster	2,207 gp	1.2
-##Table body
+###Table:Table - Body
 26	Grandmaster	3,571 gp	1.3
-##Table body
+###Table:Table - Body
 27	Grandmaster	7,778 gp	1.3
-##Table body
+###Table:Table - Body
 28	Grandmaster	11,349 gp	1.3
-##Table body
+###Table:Table - Body
 29	Grandmaster	19,127 gp	1.3
-##Table body
+###Table:Table - Body
 30	Mythical	30,476 gp	1.3
 
 ##Body text
@@ -29236,7 +28985,6 @@ ARCTIC LOCALE
 ARCTIC
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 melt	Curative	15 gp
 ##Body text
@@ -29253,7 +29001,6 @@ DESERT LOCALE
 DESERTS
 
 ##Heading 2
-XXXXXXXX
 ##Body text
 with crackling pops	Reactive	15 gp
 ##Body text
@@ -29266,7 +29013,6 @@ FOREST LOCALE
 FORESTS
 
 ##Heading 2
-XXXXXXXX
 
 ##Heading 2
 MOUNTAIN/CAVE LOCALE
@@ -29275,7 +29021,6 @@ MOUNTAIN/CAVE LOCALE
 MOUNTAINS/CAVES
 
 ##Heading 2
-XXXXXXXX
 
 ##Heading 2
 PLAINS LOCALE
@@ -29284,7 +29029,6 @@ PLAINS LOCALE
 PLAINS
 
 ##Heading 2
-XXXXXXXX
 
 ##Heading 2
 SWAMP LOCALE
@@ -29293,7 +29037,6 @@ SWAMP LOCALE
 SWAMPS
 
 ##Heading 2
-XXXXXXXX
 
 ##Heading 2
 COASTAL LOCALE
@@ -29302,7 +29045,6 @@ COASTAL LOCALE
 COASTAL
 
 ##Heading 2
-XXXXXXXX
 
 ##Heading 2
 EXOTIC LOCALE
@@ -29311,7 +29053,6 @@ EXOTIC LOCALE
 EXOTIC
 
 ##Heading 2
-XXXXXXXX
 
 ##Body text
 Appendix B
@@ -29328,7 +29069,6 @@ MONSTROSITY
 MONSTROSITIES
 
 ##Heading 2
-XXXXXXXXX
 
 ##Heading 2
 ELEMENTAL
@@ -29343,7 +29083,6 @@ DRAGON
 DRAGONS
 
 ##Heading 2
-XXXXXXXXX
 
 ##Body text
 Appendix B
@@ -29357,7 +29096,6 @@ APPENDIX B: SPECIFIC MEAL TABLE
 SPECIFIC MEALS
 
 ##Heading 2
-XXXXXX
 
 ##Body text
 Appendix C
@@ -29379,7 +29117,6 @@ In the olden days crafting checks took experience as a fundamentally component. 
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 
 ### Layout: end frame
 
@@ -29431,7 +29168,6 @@ If another creature proficient in arcana assists for the full duration of the cr
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
 ##Heading 2
-XX
 ##Body text
 Crafting Branch	Enchanting Table
 ##Body text
@@ -29462,23 +29198,22 @@ PROGRESSION AND PROGRESS
 Each branch of crafting will have a different way to gain skill in that field, typically involving a variety of options for gaining each level of a skill. These are not intended to be something gained easily or quickly, and scale on a quite exponential scale. Achieving skill 3 or 4 is fairly easy for adventurers, while skill 5 and 6 would be what is achieved at the end game, and level 7 is possible, but out of reach for most adventurers. Here is a simple method of progression:
 ### Layout: end frame
 ### Layout: begin half-width frame (Body Text style)
-##Heading 2
-XXXX
-##Body text
+###Table:Table - Heading
+###Table:Table - Header Row
 Skill	Gold Pieces of Items Created
-##Table body
+###Table:Table - Body
 1	10 gp
-##Table body
+###Table:Table - Body
 2	100 gp
-##Table body
+###Table:Table - Body
 3	1,000 gp
-##Table body
+###Table:Table - Body
 4	10,000 gp
-##Table body
+###Table:Table - Body
 5	100,000 gp
-##Table body
+###Table:Table - Body
 6	1,000,000 gp
-##Table body
+###Table:Table - Body
 7	10,000,000 gp
 
 ### Layout: end frame
